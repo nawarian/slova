@@ -1,0 +1,4165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE index SYSTEM "http://shtooka.net/project/swac/index.dtd">
+<index>
+<group 
+	swac_lang="rus"
+	swac_speak_name="Сергей Сахно"
+	swac_speak_gender="M"
+	swac_speak_birth_year="1958"
+	swac_speak_lang="rus"
+	swac_speak_lang_country="RU"
+	swac_speak_lang_region="Свердловская область"
+	swac_speak_liv_country="FR"
+	swac_speak_liv_town="Rueil-Malmaison"
+	swac_pron_speed="1"
+	swac_coll_name="Base Audio Libre de Mots Russe"
+	swac_coll_section="Vocabulaire - Sergueï Sakhno"
+	swac_coll_org="Shtooka Project"
+	swac_coll_org_url="http://shtooka.net/"
+	swac_coll_license="Creative Commons BY"
+	swac_coll_copyright="Copyright© 2007 S. Sakhno, N. Vion"
+	swac_coll_authors="Sergueï Sakhno, Nicolas Vion"
+	swac_coll_url="http://packs.shtooka.net/rus-balm-voc-sakhno/"
+	swac_tech_qlt="4"
+	swac_tech_date="2007-04-01"
+	swac_tech_soft="Shtooka Recorder/1.1.1" >
+
+	<file path="rus-00042ef4.mp3">
+		<tag 
+			swac_text="вариант"
+			swac_alphaidx="вариант" />
+	</file>
+	<file path="rus-0072b6bf.mp3">
+		<tag 
+			swac_text="шестьдесят"
+			swac_alphaidx="шестьдесят" />
+	</file>
+	<file path="rus-007875b6.mp3">
+		<tag 
+			swac_text="игра"
+			swac_alphaidx="игра" />
+	</file>
+	<file path="rus-007940c8.mp3">
+		<tag 
+			swac_text="библиотека"
+			swac_alphaidx="библиотека" />
+	</file>
+	<file path="rus-007ea5d0.mp3">
+		<tag 
+			swac_text="грамматика"
+			swac_alphaidx="грамматика" />
+	</file>
+	<file path="rus-00b10bed.mp3">
+		<tag 
+			swac_text="ребёнок"
+			swac_alphaidx="ребёнок" />
+	</file>
+	<file path="rus-00c922e1.mp3">
+		<tag 
+			swac_text="нелегко"
+			swac_alphaidx="нелегко" />
+	</file>
+	<file path="rus-013af6ad.mp3">
+		<tag 
+			swac_text="Сочи"
+			swac_alphaidx="Сочи" />
+	</file>
+	<file path="rus-01c78688.mp3">
+		<tag 
+			swac_text="например"
+			swac_alphaidx="например" />
+	</file>
+	<file path="rus-021b5f9d.mp3">
+		<tag 
+			swac_text="интернет"
+			swac_alphaidx="интернет" />
+	</file>
+	<file path="rus-02aaa5cf.mp3">
+		<tag 
+			swac_text="Света"
+			swac_alphaidx="Света" />
+	</file>
+	<file path="rus-02cd21db.mp3">
+		<tag 
+			swac_text="семья"
+			swac_alphaidx="семья" />
+	</file>
+	<file path="rus-031f3a76.mp3">
+		<tag 
+			swac_text="ужасно"
+			swac_alphaidx="ужасно" />
+	</file>
+	<file path="rus-0363f0ea.mp3">
+		<tag 
+			swac_text="там"
+			swac_alphaidx="там" />
+	</file>
+	<file path="rus-040e8e43.mp3">
+		<tag 
+			swac_text="лидер"
+			swac_alphaidx="лидер" />
+	</file>
+	<file path="rus-049506f0.mp3">
+		<tag 
+			swac_text="среда"
+			swac_alphaidx="среда" />
+	</file>
+	<file path="rus-055bec5e.mp3">
+		<tag 
+			swac_text="и"
+			swac_alphaidx="и" />
+	</file>
+	<file path="rus-0655800f.mp3">
+		<tag 
+			swac_text="быть довольным чем-либо" />
+	</file>
+	<file path="rus-0693eca4.mp3">
+		<tag 
+			swac_text="пятнадцать"
+			swac_alphaidx="пятнадцать" />
+	</file>
+	<file path="rus-06bd77eb.mp3">
+		<tag 
+			swac_text="опять"
+			swac_alphaidx="опять" />
+	</file>
+	<file path="rus-06ec01ad.mp3">
+		<tag 
+			swac_text="Виктор"
+			swac_alphaidx="Виктор" />
+	</file>
+	<file path="rus-071fd125.mp3">
+		<tag 
+			swac_text="музей"
+			swac_alphaidx="музей" />
+	</file>
+	<file path="rus-0893a7e0.mp3">
+		<tag 
+			swac_text="яйцо"
+			swac_alphaidx="яйцо" />
+	</file>
+	<file path="rus-09387a7e.mp3">
+		<tag 
+			swac_text="роль"
+			swac_alphaidx="роль" />
+	</file>
+	<file path="rus-0955555c.mp3">
+		<tag 
+			swac_text="блестящий"
+			swac_alphaidx="блестящий" />
+	</file>
+	<file path="rus-099dafa8.mp3">
+		<tag 
+			swac_text="футболист"
+			swac_alphaidx="футболист" />
+	</file>
+	<file path="rus-0a45a686.mp3">
+		<tag 
+			swac_text="известный"
+			swac_alphaidx="известный" />
+	</file>
+	<file path="rus-0a51e81c.mp3">
+		<tag 
+			swac_text="Сибирь"
+			swac_alphaidx="Сибирь" />
+	</file>
+	<file path="rus-0b34a784.mp3">
+		<tag 
+			swac_text="университет"
+			swac_alphaidx="университет" />
+	</file>
+	<file path="rus-0b80646c.mp3">
+		<tag 
+			swac_text="а"
+			swac_alphaidx="а" />
+	</file>
+	<file path="rus-0bcdafdb.mp3">
+		<tag 
+			swac_text="аптека"
+			swac_alphaidx="аптека" />
+	</file>
+	<file path="rus-0c738030.mp3">
+		<tag 
+			swac_text="дочь"
+			swac_alphaidx="дочь" />
+	</file>
+	<file path="rus-0caf961a.mp3">
+		<tag 
+			swac_text="ключ"
+			swac_alphaidx="ключ" />
+	</file>
+	<file path="rus-0d0ed612.mp3">
+		<tag 
+			swac_text="разговор"
+			swac_alphaidx="разговор" />
+	</file>
+	<file path="rus-0d2f3890.mp3">
+		<tag 
+			swac_text="семьдесят"
+			swac_alphaidx="семьдесят" />
+	</file>
+	<file path="rus-0d30d797.mp3">
+		<tag 
+			swac_text="верить"
+			swac_alphaidx="верить" />
+	</file>
+	<file path="rus-0d6817c7.mp3">
+		<tag 
+			swac_text="икра"
+			swac_alphaidx="икра" />
+	</file>
+	<file path="rus-0d9f1271.mp3">
+		<tag 
+			swac_text="пусть"
+			swac_alphaidx="пусть" />
+	</file>
+	<file path="rus-0dc65d2f.mp3">
+		<tag 
+			swac_text="голова"
+			swac_alphaidx="голова" />
+	</file>
+	<file path="rus-0e1114b1.mp3">
+		<tag 
+			swac_text="январь"
+			swac_alphaidx="январь" />
+	</file>
+	<file path="rus-0e64a40f.mp3">
+		<tag 
+			swac_text="рецепт"
+			swac_alphaidx="рецепт" />
+	</file>
+	<file path="rus-0f0a3da5.mp3">
+		<tag 
+			swac_text="мука"
+			swac_alphaidx="мука" />
+	</file>
+	<file path="rus-0f77725e.mp3">
+		<tag 
+			swac_text="ответить"
+			swac_alphaidx="ответить" />
+	</file>
+	<file path="rus-0f97e67d.mp3">
+		<tag 
+			swac_text="характер"
+			swac_alphaidx="характер" />
+	</file>
+	<file path="rus-10c0637f.mp3">
+		<tag 
+			swac_text="умирать"
+			swac_alphaidx="умирать" />
+	</file>
+	<file path="rus-10c1f2e9.mp3">
+		<tag 
+			swac_text="против"
+			swac_alphaidx="против" />
+	</file>
+	<file path="rus-10c39bd2.mp3">
+		<tag 
+			swac_text="Иван"
+			swac_alphaidx="Иван" />
+	</file>
+	<file path="rus-10d66846.mp3">
+		<tag 
+			swac_text="февраль"
+			swac_alphaidx="февраль" />
+	</file>
+	<file path="rus-111b6f75.mp3">
+		<tag 
+			swac_text="мужчина"
+			swac_alphaidx="мужчина" />
+	</file>
+	<file path="rus-11b0538a.mp3">
+		<tag 
+			swac_text="красный"
+			swac_alphaidx="красный" />
+	</file>
+	<file path="rus-11b56b55.mp3">
+		<tag 
+			swac_text="матч"
+			swac_alphaidx="матч" />
+	</file>
+	<file path="rus-11e40a08.mp3">
+		<tag 
+			swac_text="недалеко"
+			swac_alphaidx="недалеко" />
+	</file>
+	<file path="rus-1218c083.mp3">
+		<tag 
+			swac_text="Екатерина"
+			swac_alphaidx="Екатерина" />
+	</file>
+	<file path="rus-1234b1df.mp3">
+		<tag 
+			swac_text="твой"
+			swac_alphaidx="твой" />
+	</file>
+	<file path="rus-12484398.mp3">
+		<tag 
+			swac_text="компакт диск" />
+	</file>
+	<file path="rus-12536aea.mp3">
+		<tag 
+			swac_text="поликлиника"
+			swac_alphaidx="поликлиника" />
+	</file>
+	<file path="rus-1267a652.mp3">
+		<tag 
+			swac_text="жить"
+			swac_alphaidx="жить" />
+	</file>
+	<file path="rus-12e45485.mp3">
+		<tag 
+			swac_text="продукт"
+			swac_alphaidx="продукт" />
+	</file>
+	<file path="rus-12fa2acf.mp3">
+		<tag 
+			swac_text="фамилия"
+			swac_alphaidx="фамилия" />
+	</file>
+	<file path="rus-1300b30f.mp3">
+		<tag 
+			swac_text="страна"
+			swac_alphaidx="страна" />
+	</file>
+	<file path="rus-134f0b89.mp3">
+		<tag 
+			swac_text="диван"
+			swac_alphaidx="диван" />
+	</file>
+	<file path="rus-14033c05.mp3">
+		<tag 
+			swac_text="школа"
+			swac_alphaidx="школа" />
+	</file>
+	<file path="rus-14209a8e.mp3">
+		<tag 
+			swac_text="этаж"
+			swac_alphaidx="этаж" />
+	</file>
+	<file path="rus-142d4fdf.mp3">
+		<tag 
+			swac_text="зима"
+			swac_alphaidx="зима" />
+	</file>
+	<file path="rus-14fc9397.mp3">
+		<tag 
+			swac_text="ещё"
+			swac_alphaidx="ещё" />
+	</file>
+	<file path="rus-15037fe5.mp3">
+		<tag 
+			swac_text="конфета"
+			swac_alphaidx="конфета" />
+	</file>
+	<file path="rus-151b8934.mp3">
+		<tag 
+			swac_text="классический"
+			swac_alphaidx="классический" />
+	</file>
+	<file path="rus-15f4f420.mp3">
+		<tag 
+			swac_text="папа"
+			swac_alphaidx="папа" />
+	</file>
+	<file path="rus-173b58a8.mp3">
+		<tag 
+			swac_text="история"
+			swac_alphaidx="история" />
+	</file>
+	<file path="rus-1814fc7d.mp3">
+		<tag 
+			swac_text="кофе"
+			swac_alphaidx="кофе" />
+	</file>
+	<file path="rus-18602a1d.mp3">
+		<tag 
+			swac_text="из"
+			swac_alphaidx="из" />
+	</file>
+	<file path="rus-193a16a7.mp3">
+		<tag 
+			swac_text="институт"
+			swac_alphaidx="институт" />
+	</file>
+	<file path="rus-19d1ed49.mp3">
+		<tag 
+			swac_text="лекарство"
+			swac_alphaidx="лекарство" />
+	</file>
+	<file path="rus-1a085659.mp3">
+		<tag 
+			swac_text="показывать"
+			swac_alphaidx="показывать" />
+	</file>
+	<file path="rus-1a5898a7.mp3">
+		<tag 
+			swac_text="начинаться"
+			swac_alphaidx="начинаться" />
+	</file>
+	<file path="rus-1a630b0c.mp3">
+		<tag 
+			swac_text="никакой"
+			swac_alphaidx="никакой" />
+	</file>
+	<file path="rus-1ad046d6.mp3">
+		<tag 
+			swac_text="увидеть"
+			swac_alphaidx="увидеть" />
+	</file>
+	<file path="rus-1b00fba7.mp3">
+		<tag 
+			swac_text="послушать"
+			swac_alphaidx="послушать" />
+	</file>
+	<file path="rus-1b24bd2c.mp3">
+		<tag 
+			swac_text="отдыхать"
+			swac_alphaidx="отдыхать" />
+	</file>
+	<file path="rus-1b4012f1.mp3">
+		<tag 
+			swac_text="утром"
+			swac_alphaidx="утром" />
+	</file>
+	<file path="rus-1bae52c4.mp3">
+		<tag 
+			swac_text="спешить"
+			swac_alphaidx="спешить" />
+	</file>
+	<file path="rus-1bf329a1.mp3">
+		<tag 
+			swac_text="экзамен по чему-либо" />
+	</file>
+	<file path="rus-1c3c6132.mp3">
+		<tag 
+			swac_text="второй"
+			swac_alphaidx="второй" />
+	</file>
+	<file path="rus-1c65e8e7.mp3">
+		<tag 
+			swac_text="тётя"
+			swac_alphaidx="тётя" />
+	</file>
+	<file path="rus-1cfef8a9.mp3">
+		<tag 
+			swac_text="весь"
+			swac_alphaidx="весь" />
+	</file>
+	<file path="rus-1d899a3f.mp3">
+		<tag 
+			swac_text="писатель"
+			swac_alphaidx="писатель" />
+	</file>
+	<file path="rus-1e69b63a.mp3">
+		<tag 
+			swac_text="ничего"
+			swac_alphaidx="ничего" />
+	</file>
+	<file path="rus-1f091f94.mp3">
+		<tag 
+			swac_text="юридический"
+			swac_alphaidx="юридический" />
+	</file>
+	<file path="rus-1f2973dc.mp3">
+		<tag 
+			swac_text="прийти"
+			swac_alphaidx="прийти" />
+	</file>
+	<file path="rus-1f4a91fc.mp3">
+		<tag 
+			swac_text="трудный"
+			swac_alphaidx="трудный" />
+	</file>
+	<file path="rus-1f608622.mp3">
+		<tag 
+			swac_text="который"
+			swac_alphaidx="который" />
+	</file>
+	<file path="rus-205ef521.mp3">
+		<tag 
+			swac_text="колоссальный"
+			swac_alphaidx="колоссальный" />
+	</file>
+	<file path="rus-20e2b1dd.mp3">
+		<tag 
+			swac_text="помнить"
+			swac_alphaidx="помнить" />
+	</file>
+	<file path="rus-21881351.mp3">
+		<tag 
+			swac_text="начать"
+			swac_alphaidx="начать" />
+	</file>
+	<file path="rus-21c55c54.mp3">
+		<tag 
+			swac_text="бы"
+			swac_alphaidx="бы" />
+	</file>
+	<file path="rus-21df0d3d.mp3">
+		<tag 
+			swac_text="поверить"
+			swac_alphaidx="поверить" />
+	</file>
+	<file path="rus-222458d3.mp3">
+		<tag 
+			swac_text="пирожок"
+			swac_alphaidx="пирожок" />
+	</file>
+	<file path="rus-227100a5.mp3">
+		<tag 
+			swac_text="хороший"
+			swac_alphaidx="хороший" />
+	</file>
+	<file path="rus-2337c60b.mp3">
+		<tag 
+			swac_text="по-французски"
+			swac_alphaidx="по-французски" />
+	</file>
+	<file path="rus-23739ba0.mp3">
+		<tag 
+			swac_text="учиться"
+			swac_alphaidx="учиться" />
+	</file>
+	<file path="rus-2383e20d.mp3">
+		<tag 
+			swac_text="вы"
+			swac_alphaidx="вы" />
+	</file>
+	<file path="rus-2384a74a.mp3">
+		<tag 
+			swac_text="детство"
+			swac_alphaidx="детство" />
+	</file>
+	<file path="rus-23b64603.mp3">
+		<tag 
+			swac_text="лес"
+			swac_alphaidx="лес" />
+	</file>
+	<file path="rus-23c007b3.mp3">
+		<tag 
+			swac_text="правый"
+			swac_alphaidx="правый" />
+	</file>
+	<file path="rus-23c31fe0.mp3">
+		<tag 
+			swac_text="закон"
+			swac_alphaidx="закон" />
+	</file>
+	<file path="rus-23dcab42.mp3">
+		<tag 
+			swac_text="свой"
+			swac_alphaidx="свой" />
+	</file>
+	<file path="rus-23e45c82.mp3">
+		<tag 
+			swac_text="звать"
+			swac_alphaidx="звать" />
+	</file>
+	<file path="rus-23f9485e.mp3">
+		<tag 
+			swac_text="масло"
+			swac_alphaidx="масло" />
+	</file>
+	<file path="rus-252a9f95.mp3">
+		<tag 
+			swac_text="нехорошо"
+			swac_alphaidx="нехорошо" />
+	</file>
+	<file path="rus-2584fdeb.mp3">
+		<tag 
+			swac_text="пешком"
+			swac_alphaidx="пешком" />
+	</file>
+	<file path="rus-25a4585a.mp3">
+		<tag 
+			swac_text="отдохнуть"
+			swac_alphaidx="отдохнуть" />
+	</file>
+	<file path="rus-26042d02.mp3">
+		<tag 
+			swac_text="ну"
+			swac_alphaidx="ну" />
+	</file>
+	<file path="rus-261b1bf0.mp3">
+		<tag 
+			swac_text="касса"
+			swac_alphaidx="касса" />
+	</file>
+	<file path="rus-265a50e4.mp3">
+		<tag 
+			swac_text="мама"
+			swac_alphaidx="мама" />
+	</file>
+	<file path="rus-2671a84b.mp3">
+		<tag 
+			swac_text="право"
+			swac_alphaidx="право" />
+	</file>
+	<file path="rus-268f7d59.mp3">
+		<tag 
+			swac_text="рыжий"
+			swac_alphaidx="рыжий" />
+	</file>
+	<file path="rus-26a76b8e.mp3">
+		<tag 
+			swac_text="журналистка"
+			swac_alphaidx="журналистка" />
+	</file>
+	<file path="rus-26dd6068.mp3">
+		<tag 
+			swac_text="зоопарк"
+			swac_alphaidx="зоопарк" />
+	</file>
+	<file path="rus-2746f35d.mp3">
+		<tag 
+			swac_text="некоторый"
+			swac_alphaidx="некоторый" />
+	</file>
+	<file path="rus-2833e7bf.mp3">
+		<tag 
+			swac_text="кто"
+			swac_alphaidx="кто" />
+	</file>
+	<file path="rus-2896a890.mp3">
+		<tag 
+			swac_text="или"
+			swac_alphaidx="или" />
+	</file>
+	<file path="rus-28da19a1.mp3">
+		<tag 
+			swac_text="проблема"
+			swac_alphaidx="проблема" />
+	</file>
+	<file path="rus-28e0b889.mp3">
+		<tag 
+			swac_text="справа"
+			swac_alphaidx="справа" />
+	</file>
+	<file path="rus-28e828ff.mp3">
+		<tag 
+			swac_text="подруга"
+			swac_alphaidx="подруга" />
+	</file>
+	<file path="rus-291dcf07.mp3">
+		<tag 
+			swac_text="мы"
+			swac_alphaidx="мы" />
+	</file>
+	<file path="rus-296861fd.mp3">
+		<tag 
+			swac_text="официантка"
+			swac_alphaidx="официантка" />
+	</file>
+	<file path="rus-29907959.mp3">
+		<tag 
+			swac_text="крем"
+			swac_alphaidx="крем" />
+	</file>
+	<file path="rus-29e0e4d5.mp3">
+		<tag 
+			swac_text="король"
+			swac_alphaidx="король" />
+	</file>
+	<file path="rus-29eeb8e1.mp3">
+		<tag 
+			swac_text="слушать"
+			swac_alphaidx="слушать" />
+	</file>
+	<file path="rus-2aaba201.mp3">
+		<tag 
+			swac_text="где"
+			swac_alphaidx="где" />
+	</file>
+	<file path="rus-2ab36093.mp3">
+		<tag 
+			swac_text="Греция"
+			swac_alphaidx="Греция" />
+	</file>
+	<file path="rus-2ae5f98d.mp3">
+		<tag 
+			swac_text="магазин"
+			swac_alphaidx="магазин" />
+	</file>
+	<file path="rus-2b6386b5.mp3">
+		<tag 
+			swac_text="транспорт"
+			swac_alphaidx="транспорт" />
+	</file>
+	<file path="rus-2b6e4d6a.mp3">
+		<tag 
+			swac_text="улица"
+			swac_alphaidx="улица" />
+	</file>
+	<file path="rus-2b6e4d9d.mp3">
+		<tag 
+			swac_text="борщ"
+			swac_alphaidx="борщ" />
+	</file>
+	<file path="rus-2bc8cf0d.mp3">
+		<tag 
+			swac_text="Женя"
+			swac_alphaidx="Женя" />
+	</file>
+	<file path="rus-2c7b956d.mp3">
+		<tag 
+			swac_text="биолог"
+			swac_alphaidx="биолог" />
+	</file>
+	<file path="rus-2cbadc83.mp3">
+		<tag 
+			swac_text="юмор"
+			swac_alphaidx="юмор" />
+	</file>
+	<file path="rus-2cf8d089.mp3">
+		<tag 
+			swac_text="последний"
+			swac_alphaidx="последний" />
+	</file>
+	<file path="rus-2d9b7a7c.mp3">
+		<tag 
+			swac_text="Москва"
+			swac_alphaidx="Москва" />
+	</file>
+	<file path="rus-2dacc217.mp3">
+		<tag 
+			swac_text="открывать"
+			swac_alphaidx="открывать" />
+	</file>
+	<file path="rus-2db29df9.mp3">
+		<tag 
+			swac_text="Машенька"
+			swac_alphaidx="Машенька" />
+	</file>
+	<file path="rus-2e763e4e.mp3">
+		<tag 
+			swac_text="привет"
+			swac_alphaidx="привет" />
+	</file>
+	<file path="rus-3070115b.mp3">
+		<tag 
+			swac_text="четыре"
+			swac_alphaidx="четыре" />
+	</file>
+	<file path="rus-30708c4a.mp3">
+		<tag 
+			swac_text="апельсин"
+			swac_alphaidx="апельсин" />
+	</file>
+	<file path="rus-30befd3d.mp3">
+		<tag 
+			swac_text="погода"
+			swac_alphaidx="погода" />
+	</file>
+	<file path="rus-30ee8644.mp3">
+		<tag 
+			swac_text="июнь"
+			swac_alphaidx="июнь" />
+	</file>
+	<file path="rus-311037c1.mp3">
+		<tag 
+			swac_text="странно"
+			swac_alphaidx="странно" />
+	</file>
+	<file path="rus-314ddbb5.mp3">
+		<tag 
+			swac_text="неприятно"
+			swac_alphaidx="неприятно" />
+	</file>
+	<file path="rus-3162ce3e.mp3">
+		<tag 
+			swac_text="туда"
+			swac_alphaidx="туда" />
+	</file>
+	<file path="rus-316f9a58.mp3">
+		<tag 
+			swac_text="бистро"
+			swac_alphaidx="бистро" />
+	</file>
+	<file path="rus-317ba8e5.mp3">
+		<tag 
+			swac_text="понедельник"
+			swac_alphaidx="понедельник" />
+	</file>
+	<file path="rus-31e6e4b7.mp3">
+		<tag 
+			swac_text="случайно"
+			swac_alphaidx="случайно" />
+	</file>
+	<file path="rus-31f54fe8.mp3">
+		<tag 
+			swac_text="наивный"
+			swac_alphaidx="наивный" />
+	</file>
+	<file path="rus-320eeb9b.mp3">
+		<tag 
+			swac_text="перспектива"
+			swac_alphaidx="перспектива" />
+	</file>
+	<file path="rus-326862ed.mp3">
+		<tag 
+			swac_text="милый"
+			swac_alphaidx="милый" />
+	</file>
+	<file path="rus-326bf667.mp3">
+		<tag 
+			swac_text="интересоваться"
+			swac_alphaidx="интересоваться" />
+	</file>
+	<file path="rus-329a37a8.mp3">
+		<tag 
+			swac_text="симпатичный"
+			swac_alphaidx="симпатичный" />
+	</file>
+	<file path="rus-32b9bbf0.mp3">
+		<tag 
+			swac_text="Катюша"
+			swac_alphaidx="Катюша" />
+	</file>
+	<file path="rus-32ea612e.mp3">
+		<tag 
+			swac_text="сахар"
+			swac_alphaidx="сахар" />
+	</file>
+	<file path="rus-33072f52.mp3">
+		<tag 
+			swac_text="никогда"
+			swac_alphaidx="никогда" />
+	</file>
+	<file path="rus-33a49178.mp3">
+		<tag 
+			swac_text="триста"
+			swac_alphaidx="триста" />
+	</file>
+	<file path="rus-3463faf6.mp3">
+		<tag 
+			swac_text="июль"
+			swac_alphaidx="июль" />
+	</file>
+	<file path="rus-3570c185.mp3">
+		<tag 
+			swac_text="круиз"
+			swac_alphaidx="круиз" />
+	</file>
+	<file path="rus-359ebd8d.mp3">
+		<tag 
+			swac_text="сто"
+			swac_alphaidx="сто" />
+	</file>
+	<file path="rus-35b93ba2.mp3">
+		<tag 
+			swac_text="официант"
+			swac_alphaidx="официант" />
+	</file>
+	<file path="rus-35c40fde.mp3">
+		<tag 
+			swac_text="лампа"
+			swac_alphaidx="лампа" />
+	</file>
+	<file path="rus-35ffe219.mp3">
+		<tag 
+			swac_text="нет"
+			swac_alphaidx="нет" />
+	</file>
+	<file path="rus-366cdefa.mp3">
+		<tag 
+			swac_text="папочка"
+			swac_alphaidx="папочка" />
+	</file>
+	<file path="rus-367862a2.mp3">
+		<tag 
+			swac_text="люди"
+			swac_alphaidx="люди" />
+	</file>
+	<file path="rus-37f6e799.mp3">
+		<tag 
+			swac_text="несерьёзный"
+			swac_alphaidx="несерьёзный" />
+	</file>
+	<file path="rus-38251d67.mp3">
+		<tag 
+			swac_text="ручка"
+			swac_alphaidx="ручка" />
+	</file>
+	<file path="rus-38492e0b.mp3">
+		<tag 
+			swac_text="зимний"
+			swac_alphaidx="зимний" />
+	</file>
+	<file path="rus-38680f70.mp3">
+		<tag 
+			swac_text="дума"
+			swac_alphaidx="дума" />
+	</file>
+	<file path="rus-38a31dc6.mp3">
+		<tag 
+			swac_text="парижский"
+			swac_alphaidx="парижский" />
+	</file>
+	<file path="rus-391b45cc.mp3">
+		<tag 
+			swac_text="чтобы"
+			swac_alphaidx="чтобы" />
+	</file>
+	<file path="rus-393d4303.mp3">
+		<tag 
+			swac_text="ой !" />
+	</file>
+	<file path="rus-396d28bd.mp3">
+		<tag 
+			swac_text="банкир"
+			swac_alphaidx="банкир" />
+	</file>
+	<file path="rus-3a89ea5e.mp3">
+		<tag 
+			swac_text="нервный"
+			swac_alphaidx="нервный" />
+	</file>
+	<file path="rus-3ace0c95.mp3">
+		<tag 
+			swac_text="левый"
+			swac_alphaidx="левый" />
+	</file>
+	<file path="rus-3ad45fff.mp3">
+		<tag 
+			swac_text="команда"
+			swac_alphaidx="команда" />
+	</file>
+	<file path="rus-3c79d25f.mp3">
+		<tag 
+			swac_text="поезд"
+			swac_alphaidx="поезд" />
+	</file>
+	<file path="rus-3d668913.mp3">
+		<tag 
+			swac_text="фильм"
+			swac_alphaidx="фильм" />
+	</file>
+	<file path="rus-3ddfd658.mp3">
+		<tag 
+			swac_text="верить кому-либо" />
+	</file>
+	<file path="rus-3df7d392.mp3">
+		<tag 
+			swac_text="урок"
+			swac_alphaidx="урок" />
+	</file>
+	<file path="rus-3dfd336c.mp3">
+		<tag 
+			swac_text="один"
+			swac_alphaidx="один" />
+	</file>
+	<file path="rus-3e420abd.mp3">
+		<tag 
+			swac_text="реклама"
+			swac_alphaidx="реклама" />
+	</file>
+	<file path="rus-3e9047a2.mp3">
+		<tag 
+			swac_text="маленький"
+			swac_alphaidx="маленький" />
+	</file>
+	<file path="rus-3e96ecf2.mp3">
+		<tag 
+			swac_text="рассказывать"
+			swac_alphaidx="рассказывать" />
+	</file>
+	<file path="rus-3ed596c8.mp3">
+		<tag 
+			swac_text="экскурсия"
+			swac_alphaidx="экскурсия" />
+	</file>
+	<file path="rus-3f6e7214.mp3">
+		<tag 
+			swac_text="центральный"
+			swac_alphaidx="центральный" />
+	</file>
+	<file path="rus-3f91c7fb.mp3">
+		<tag 
+			swac_text="госпожа"
+			swac_alphaidx="госпожа" />
+	</file>
+	<file path="rus-3f9a811a.mp3">
+		<tag 
+			swac_text="зал"
+			swac_alphaidx="зал" />
+	</file>
+	<file path="rus-3f9cce57.mp3">
+		<tag 
+			swac_text="мочь"
+			swac_alphaidx="мочь" />
+	</file>
+	<file path="rus-3fa2aa71.mp3">
+		<tag 
+			swac_text="дело"
+			swac_alphaidx="дело" />
+	</file>
+	<file path="rus-40536522.mp3">
+		<tag 
+			swac_text="казаться"
+			swac_alphaidx="казаться" />
+	</file>
+	<file path="rus-4152c364.mp3">
+		<tag 
+			swac_text="около"
+			swac_alphaidx="около" />
+	</file>
+	<file path="rus-418ba931.mp3">
+		<tag 
+			swac_text="литература"
+			swac_alphaidx="литература" />
+	</file>
+	<file path="rus-4198ee8d.mp3">
+		<tag 
+			swac_text="две тысячи" />
+	</file>
+	<file path="rus-4223a400.mp3">
+		<tag 
+			swac_text="ужин"
+			swac_alphaidx="ужин" />
+	</file>
+	<file path="rus-42490890.mp3">
+		<tag 
+			swac_text="Миша"
+			swac_alphaidx="Миша" />
+	</file>
+	<file path="rus-42569bc4.mp3">
+		<tag 
+			swac_text="плакать"
+			swac_alphaidx="плакать" />
+	</file>
+	<file path="rus-426bd03e.mp3">
+		<tag 
+			swac_text="медсестра"
+			swac_alphaidx="медсестра" />
+	</file>
+	<file path="rus-42cbc3c8.mp3">
+		<tag 
+			swac_text="постоять"
+			swac_alphaidx="постоять" />
+	</file>
+	<file path="rus-433ade3a.mp3">
+		<tag 
+			swac_text="соус"
+			swac_alphaidx="соус" />
+	</file>
+	<file path="rus-43455517.mp3">
+		<tag 
+			swac_text="с"
+			swac_alphaidx="с" />
+	</file>
+	<file path="rus-43521d4c.mp3">
+		<tag 
+			swac_text="уже"
+			swac_alphaidx="уже" />
+	</file>
+	<file path="rus-435be72c.mp3">
+		<tag 
+			swac_text="суп"
+			swac_alphaidx="суп" />
+	</file>
+	<file path="rus-43e07895.mp3">
+		<tag 
+			swac_text="Я так не думаю." />
+	</file>
+	<file path="rus-4481af2c.mp3">
+		<tag 
+			swac_text="устать"
+			swac_alphaidx="устать" />
+	</file>
+	<file path="rus-44c38a3a.mp3">
+		<tag 
+			swac_text="сам"
+			swac_alphaidx="сам" />
+	</file>
+	<file path="rus-44cc5aca.mp3">
+		<tag 
+			swac_text="косметика"
+			swac_alphaidx="косметика" />
+	</file>
+	<file path="rus-44e2b59d.mp3">
+		<tag 
+			swac_text="есть"
+			swac_alphaidx="есть" />
+	</file>
+	<file path="rus-451a7ce5.mp3">
+		<tag 
+			swac_text="любимый"
+			swac_alphaidx="любимый" />
+	</file>
+	<file path="rus-45c7b63e.mp3">
+		<tag 
+			swac_text="дети"
+			swac_alphaidx="дети" />
+	</file>
+	<file path="rus-46709a4f.mp3">
+		<tag 
+			swac_text="сегодня"
+			swac_alphaidx="сегодня" />
+	</file>
+	<file path="rus-468a4b0d.mp3">
+		<tag 
+			swac_text="хорошо"
+			swac_alphaidx="хорошо" />
+	</file>
+	<file path="rus-46952cd1.mp3">
+		<tag 
+			swac_text="испанский"
+			swac_alphaidx="испанский" />
+	</file>
+	<file path="rus-46b0a5b5.mp3">
+		<tag 
+			swac_text="строгий"
+			swac_alphaidx="строгий" />
+	</file>
+	<file path="rus-46f9b8d4.mp3">
+		<tag 
+			swac_text="Таня"
+			swac_alphaidx="Таня" />
+	</file>
+	<file path="rus-4732e837.mp3">
+		<tag 
+			swac_text="автобус"
+			swac_alphaidx="автобус" />
+	</file>
+	<file path="rus-47452451.mp3">
+		<tag 
+			swac_text="забывать"
+			swac_alphaidx="забывать" />
+	</file>
+	<file path="rus-47a28251.mp3">
+		<tag 
+			swac_text="карьера"
+			swac_alphaidx="карьера" />
+	</file>
+	<file path="rus-47cb29b0.mp3">
+		<tag 
+			swac_text="восемь"
+			swac_alphaidx="восемь" />
+	</file>
+	<file path="rus-4814c91a.mp3">
+		<tag 
+			swac_text="круиз по реке" />
+	</file>
+	<file path="rus-48dc26e1.mp3">
+		<tag 
+			swac_text="дружба"
+			swac_alphaidx="дружба" />
+	</file>
+	<file path="rus-48dcda59.mp3">
+		<tag 
+			swac_text="закричать"
+			swac_alphaidx="закричать" />
+	</file>
+	<file path="rus-495e6c9e.mp3">
+		<tag 
+			swac_text="река"
+			swac_alphaidx="река" />
+	</file>
+	<file path="rus-49e474ae.mp3">
+		<tag 
+			swac_text="письмо"
+			swac_alphaidx="письмо" />
+	</file>
+	<file path="rus-49e5d454.mp3">
+		<tag 
+			swac_text="блин"
+			swac_alphaidx="блин" />
+	</file>
+	<file path="rus-4a475446.mp3">
+		<tag 
+			swac_text="футбол"
+			swac_alphaidx="футбол" />
+	</file>
+	<file path="rus-4aac7d9a.mp3">
+		<tag 
+			swac_text="Бразилия"
+			swac_alphaidx="Бразилия" />
+	</file>
+	<file path="rus-4b08eaed.mp3">
+		<tag 
+			swac_text="жена"
+			swac_alphaidx="жена" />
+	</file>
+	<file path="rus-4b1d300f.mp3">
+		<tag 
+			swac_text="шутка"
+			swac_alphaidx="шутка" />
+	</file>
+	<file path="rus-4b4b48fc.mp3">
+		<tag 
+			swac_text="Александр"
+			swac_alphaidx="Александр" />
+	</file>
+	<file path="rus-4bd321e5.mp3">
+		<tag 
+			swac_text="новый"
+			swac_alphaidx="новый" />
+	</file>
+	<file path="rus-4c0194b7.mp3">
+		<tag 
+			swac_text="себя"
+			swac_alphaidx="себя" />
+	</file>
+	<file path="rus-4cb39d15.mp3">
+		<tag 
+			swac_text="агентство"
+			swac_alphaidx="агентство" />
+	</file>
+	<file path="rus-4cc0d1df.mp3">
+		<tag 
+			swac_text="для"
+			swac_alphaidx="для" />
+	</file>
+	<file path="rus-4cc47a96.mp3">
+		<tag 
+			swac_text="просить"
+			swac_alphaidx="просить" />
+	</file>
+	<file path="rus-4da7477d.mp3">
+		<tag 
+			swac_text="ночью"
+			swac_alphaidx="ночью" />
+	</file>
+	<file path="rus-4ece028b.mp3">
+		<tag 
+			swac_text="друзья"
+			swac_alphaidx="друзья" />
+	</file>
+	<file path="rus-4f46c004.mp3">
+		<tag 
+			swac_text="такси"
+			swac_alphaidx="такси" />
+	</file>
+	<file path="rus-4f4a6924.mp3">
+		<tag 
+			swac_text="медленно"
+			swac_alphaidx="медленно" />
+	</file>
+	<file path="rus-4f53696d.mp3">
+		<tag 
+			swac_text="королева"
+			swac_alphaidx="королева" />
+	</file>
+	<file path="rus-4f587645.mp3">
+		<tag 
+			swac_text="красавица"
+			swac_alphaidx="красавица" />
+	</file>
+	<file path="rus-4f69d7b0.mp3">
+		<tag 
+			swac_text="российский"
+			swac_alphaidx="российский" />
+	</file>
+	<file path="rus-4fbb4525.mp3">
+		<tag 
+			swac_text="смотреть на кого-либо" />
+	</file>
+	<file path="rus-50185ce4.mp3">
+		<tag 
+			swac_text="пьеса"
+			swac_alphaidx="пьеса" />
+	</file>
+	<file path="rus-503b1741.mp3">
+		<tag 
+			swac_text="год"
+			swac_alphaidx="год" />
+	</file>
+	<file path="rus-50d4da63.mp3">
+		<tag 
+			swac_text="концерт"
+			swac_alphaidx="концерт" />
+	</file>
+	<file path="rus-510fbd19.mp3">
+		<tag 
+			swac_text="хотя"
+			swac_alphaidx="хотя" />
+	</file>
+	<file path="rus-51265064.mp3">
+		<tag 
+			swac_text="работать"
+			swac_alphaidx="работать" />
+	</file>
+	<file path="rus-51b15e3d.mp3">
+		<tag 
+			swac_text="ваш"
+			swac_alphaidx="ваш" />
+	</file>
+	<file path="rus-51bd2a4c.mp3">
+		<tag 
+			swac_text="девочка"
+			swac_alphaidx="девочка" />
+	</file>
+	<file path="rus-5345a3cd.mp3">
+		<tag 
+			swac_text="от"
+			swac_alphaidx="от" />
+	</file>
+	<file path="rus-53b07a32.mp3">
+		<tag 
+			swac_text="роман"
+			swac_alphaidx="роман" />
+	</file>
+	<file path="rus-53ea6604.mp3">
+		<tag 
+			swac_text="главный"
+			swac_alphaidx="главный" />
+	</file>
+	<file path="rus-55296791.mp3">
+		<tag 
+			swac_text="пообедать"
+			swac_alphaidx="пообедать" />
+	</file>
+	<file path="rus-556069f6.mp3">
+		<tag 
+			swac_text="внимание"
+			swac_alphaidx="внимание" />
+	</file>
+	<file path="rus-55ac86e6.mp3">
+		<tag 
+			swac_text="зато"
+			swac_alphaidx="зато" />
+	</file>
+	<file path="rus-562b8b29.mp3">
+		<tag 
+			swac_text="Испания"
+			swac_alphaidx="Испания" />
+	</file>
+	<file path="rus-56a58a65.mp3">
+		<tag 
+			swac_text="назвать"
+			swac_alphaidx="назвать" />
+	</file>
+	<file path="rus-56f326dc.mp3">
+		<tag 
+			swac_text="финансовый"
+			swac_alphaidx="финансовый" />
+	</file>
+	<file path="rus-56f5e4fe.mp3">
+		<tag 
+			swac_text="холодно"
+			swac_alphaidx="холодно" />
+	</file>
+	<file path="rus-5703d8ad.mp3">
+		<tag 
+			swac_text="стадион"
+			swac_alphaidx="стадион" />
+	</file>
+	<file path="rus-5729980b.mp3">
+		<tag 
+			swac_text="ужасный"
+			swac_alphaidx="ужасный" />
+	</file>
+	<file path="rus-572dd763.mp3">
+		<tag 
+			swac_text="умный"
+			swac_alphaidx="умный" />
+	</file>
+	<file path="rus-574f7dfb.mp3">
+		<tag 
+			swac_text="ждать"
+			swac_alphaidx="ждать" />
+	</file>
+	<file path="rus-5893adca.mp3">
+		<tag 
+			swac_text="историк"
+			swac_alphaidx="историк" />
+	</file>
+	<file path="rus-58f60438.mp3">
+		<tag 
+			swac_text="тарелка"
+			swac_alphaidx="тарелка" />
+	</file>
+	<file path="rus-59b8f4fc.mp3">
+		<tag 
+			swac_text="Новороссийск"
+			swac_alphaidx="Новороссийск" />
+	</file>
+	<file path="rus-5a04c2e4.mp3">
+		<tag 
+			swac_text="толстый"
+			swac_alphaidx="толстый" />
+	</file>
+	<file path="rus-5a7f20fe.mp3">
+		<tag 
+			swac_text="каникулы"
+			swac_alphaidx="каникулы" />
+	</file>
+	<file path="rus-5ad852aa.mp3">
+		<tag 
+			swac_text="потому"
+			swac_alphaidx="потому" />
+	</file>
+	<file path="rus-5aec63e2.mp3">
+		<tag 
+			swac_text="лето"
+			swac_alphaidx="лето" />
+	</file>
+	<file path="rus-5ba41743.mp3">
+		<tag 
+			swac_text="У меня голова болит." />
+	</file>
+	<file path="rus-5cd9f937.mp3">
+		<tag 
+			swac_text="мешать"
+			swac_alphaidx="мешать" />
+	</file>
+	<file path="rus-5cf6afb5.mp3">
+		<tag 
+			swac_text="дядя"
+			swac_alphaidx="дядя" />
+	</file>
+	<file path="rus-5d85dc1d.mp3">
+		<tag 
+			swac_text="время"
+			swac_alphaidx="время" />
+	</file>
+	<file path="rus-5dde2110.mp3">
+		<tag 
+			swac_text="сделать"
+			swac_alphaidx="сделать" />
+	</file>
+	<file path="rus-5e0569cd.mp3">
+		<tag 
+			swac_text="министр"
+			swac_alphaidx="министр" />
+	</file>
+	<file path="rus-5e0dd8f1.mp3">
+		<tag 
+			swac_text="звонить"
+			swac_alphaidx="звонить" />
+	</file>
+	<file path="rus-5f5e2bb8.mp3">
+		<tag 
+			swac_text="десерт"
+			swac_alphaidx="десерт" />
+	</file>
+	<file path="rus-5fa254b2.mp3">
+		<tag 
+			swac_text="пять"
+			swac_alphaidx="пять" />
+	</file>
+	<file path="rus-5faac196.mp3">
+		<tag 
+			swac_text="романтично"
+			swac_alphaidx="романтично" />
+	</file>
+	<file path="rus-612b95a0.mp3">
+		<tag 
+			swac_text="завтрак"
+			swac_alphaidx="завтрак" />
+	</file>
+	<file path="rus-61770d59.mp3">
+		<tag 
+			swac_text="восемьдесят"
+			swac_alphaidx="восемьдесят" />
+	</file>
+	<file path="rus-6178a165.mp3">
+		<tag 
+			swac_text="сколько"
+			swac_alphaidx="сколько" />
+	</file>
+	<file path="rus-6214102f.mp3">
+		<tag 
+			swac_text="семейный"
+			swac_alphaidx="семейный" />
+	</file>
+	<file path="rus-623161bf.mp3">
+		<tag 
+			swac_text="футбольный"
+			swac_alphaidx="футбольный" />
+	</file>
+	<file path="rus-625b4bb4.mp3">
+		<tag 
+			swac_text="март"
+			swac_alphaidx="март" />
+	</file>
+	<file path="rus-62aad8f6.mp3">
+		<tag 
+			swac_text="парк"
+			swac_alphaidx="парк" />
+	</file>
+	<file path="rus-62df1f23.mp3">
+		<tag 
+			swac_text="шестьсот"
+			swac_alphaidx="шестьсот" />
+	</file>
+	<file path="rus-6342caea.mp3">
+		<tag 
+			swac_text="начало"
+			swac_alphaidx="начало" />
+	</file>
+	<file path="rus-6482677e.mp3">
+		<tag 
+			swac_text="иметь"
+			swac_alphaidx="иметь" />
+	</file>
+	<file path="rus-648dd1b4.mp3">
+		<tag 
+			swac_text="помощь"
+			swac_alphaidx="помощь" />
+	</file>
+	<file path="rus-648f1428.mp3">
+		<tag 
+			swac_text="позвать"
+			swac_alphaidx="позвать" />
+	</file>
+	<file path="rus-6491c084.mp3">
+		<tag 
+			swac_text="театр"
+			swac_alphaidx="театр" />
+	</file>
+	<file path="rus-64e9a86f.mp3">
+		<tag 
+			swac_text="узнать"
+			swac_alphaidx="узнать" />
+	</file>
+	<file path="rus-64f3843c.mp3">
+		<tag 
+			swac_text="по"
+			swac_alphaidx="по" />
+	</file>
+	<file path="rus-652c5a18.mp3">
+		<tag 
+			swac_text="кошмар"
+			swac_alphaidx="кошмар" />
+	</file>
+	<file path="rus-6617736c.mp3">
+		<tag 
+			swac_text="плохо"
+			swac_alphaidx="плохо" />
+	</file>
+	<file path="rus-6628d707.mp3">
+		<tag 
+			swac_text="поздно"
+			swac_alphaidx="поздно" />
+	</file>
+	<file path="rus-66d68b74.mp3">
+		<tag 
+			swac_text="слева"
+			swac_alphaidx="слева" />
+	</file>
+	<file path="rus-66dd2e10.mp3">
+		<tag 
+			swac_text="культура"
+			swac_alphaidx="культура" />
+	</file>
+	<file path="rus-67775052.mp3">
+		<tag 
+			swac_text="но"
+			swac_alphaidx="но" />
+	</file>
+	<file path="rus-67b1898b.mp3">
+		<tag 
+			swac_text="здоровье"
+			swac_alphaidx="здоровье" />
+	</file>
+	<file path="rus-67c724d7.mp3">
+		<tag 
+			swac_text="обедать"
+			swac_alphaidx="обедать" />
+	</file>
+	<file path="rus-68036afe.mp3">
+		<tag 
+			swac_text="отдых"
+			swac_alphaidx="отдых" />
+	</file>
+	<file path="rus-680f38bb.mp3">
+		<tag 
+			swac_text="студентка"
+			swac_alphaidx="студентка" />
+	</file>
+	<file path="rus-684427cd.mp3">
+		<tag 
+			swac_text="кассирша"
+			swac_alphaidx="кассирша" />
+	</file>
+	<file path="rus-68486fda.mp3">
+		<tag 
+			swac_text="даже"
+			swac_alphaidx="даже" />
+	</file>
+	<file path="rus-686c2d4f.mp3">
+		<tag 
+			swac_text="юрист"
+			swac_alphaidx="юрист" />
+	</file>
+	<file path="rus-688cfdb4.mp3">
+		<tag 
+			swac_text="наверное"
+			swac_alphaidx="наверное" />
+	</file>
+	<file path="rus-68940845.mp3">
+		<tag 
+			swac_text="сцена"
+			swac_alphaidx="сцена" />
+	</file>
+	<file path="rus-68a66bdd.mp3">
+		<tag 
+			swac_text="до"
+			swac_alphaidx="до" />
+	</file>
+	<file path="rus-68a6e599.mp3">
+		<tag 
+			swac_text="четверг"
+			swac_alphaidx="четверг" />
+	</file>
+	<file path="rus-68cb51e1.mp3">
+		<tag 
+			swac_text="съесть"
+			swac_alphaidx="съесть" />
+	</file>
+	<file path="rus-68f43f6a.mp3">
+		<tag 
+			swac_text="шоколадный"
+			swac_alphaidx="шоколадный" />
+	</file>
+	<file path="rus-68f8678e.mp3">
+		<tag 
+			swac_text="сразу"
+			swac_alphaidx="сразу" />
+	</file>
+	<file path="rus-698627ef.mp3">
+		<tag 
+			swac_text="надо"
+			swac_alphaidx="надо" />
+	</file>
+	<file path="rus-698d3b88.mp3">
+		<tag 
+			swac_text="коллега"
+			swac_alphaidx="коллега" />
+	</file>
+	<file path="rus-699cd2a3.mp3">
+		<tag 
+			swac_text="Светлана"
+			swac_alphaidx="Светлана" />
+	</file>
+	<file path="rus-69c2f9b7.mp3">
+		<tag 
+			swac_text="идти к кому-либо" />
+	</file>
+	<file path="rus-69c35aaa.mp3">
+		<tag 
+			swac_text="рассказать"
+			swac_alphaidx="рассказать" />
+	</file>
+	<file path="rus-6a1f61de.mp3">
+		<tag 
+			swac_text="сначала"
+			swac_alphaidx="сначала" />
+	</file>
+	<file path="rus-6a23336b.mp3">
+		<tag 
+			swac_text="пойти"
+			swac_alphaidx="пойти" />
+	</file>
+	<file path="rus-6aeffc0a.mp3">
+		<tag 
+			swac_text="пятница"
+			swac_alphaidx="пятница" />
+	</file>
+	<file path="rus-6b66519f.mp3">
+		<tag 
+			swac_text="туристический"
+			swac_alphaidx="туристический" />
+	</file>
+	<file path="rus-6bc0904b.mp3">
+		<tag 
+			swac_text="лекция"
+			swac_alphaidx="лекция" />
+	</file>
+	<file path="rus-6c3591c9.mp3">
+		<tag 
+			swac_text="налог"
+			swac_alphaidx="налог" />
+	</file>
+	<file path="rus-6cba24cf.mp3">
+		<tag 
+			swac_text="днём"
+			swac_alphaidx="днём" />
+	</file>
+	<file path="rus-6ce39bb7.mp3">
+		<tag 
+			swac_text="позвонить"
+			swac_alphaidx="позвонить" />
+	</file>
+	<file path="rus-6d3f1638.mp3">
+		<tag 
+			swac_text="отвечать"
+			swac_alphaidx="отвечать" />
+	</file>
+	<file path="rus-6dacefaf.mp3">
+		<tag 
+			swac_text="удовольствие"
+			swac_alphaidx="удовольствие" />
+	</file>
+	<file path="rus-6e13fcbe.mp3">
+		<tag 
+			swac_text="помочь"
+			swac_alphaidx="помочь" />
+	</file>
+	<file path="rus-6e241962.mp3">
+		<tag 
+			swac_text="стоять"
+			swac_alphaidx="стоять" />
+	</file>
+	<file path="rus-6e66e87d.mp3">
+		<tag 
+			swac_text="курорт"
+			swac_alphaidx="курорт" />
+	</file>
+	<file path="rus-6e92746d.mp3">
+		<tag 
+			swac_text="Атлантика"
+			swac_alphaidx="Атлантика" />
+	</file>
+	<file path="rus-6e96b74f.mp3">
+		<tag 
+			swac_text="публика"
+			swac_alphaidx="публика" />
+	</file>
+	<file path="rus-6f6e8c17.mp3">
+		<tag 
+			swac_text="семинар"
+			swac_alphaidx="семинар" />
+	</file>
+	<file path="rus-6faf539d.mp3">
+		<tag 
+			swac_text="телевизор"
+			swac_alphaidx="телевизор" />
+	</file>
+	<file path="rus-700c5a69.mp3">
+		<tag 
+			swac_text="прекрасно"
+			swac_alphaidx="прекрасно" />
+	</file>
+	<file path="rus-7029b33d.mp3">
+		<tag 
+			swac_text="абрикос"
+			swac_alphaidx="абрикос" />
+	</file>
+	<file path="rus-706d90f7.mp3">
+		<tag 
+			swac_text="фрукт"
+			swac_alphaidx="фрукт" />
+	</file>
+	<file path="rus-70e60f63.mp3">
+		<tag 
+			swac_text="многие"
+			swac_alphaidx="многие" />
+	</file>
+	<file path="rus-714ae1d2.mp3">
+		<tag 
+			swac_text="друг"
+			swac_alphaidx="друг" />
+	</file>
+	<file path="rus-7151cef4.mp3">
+		<tag 
+			swac_text="кричать"
+			swac_alphaidx="кричать" />
+	</file>
+	<file path="rus-719723ca.mp3">
+		<tag 
+			swac_text="политик"
+			swac_alphaidx="политик" />
+	</file>
+	<file path="rus-71fdc12a.mp3">
+		<tag 
+			swac_text="здорово"
+			swac_alphaidx="здорово" />
+	</file>
+	<file path="rus-7204082e.mp3">
+		<tag 
+			swac_text="здравствовать"
+			swac_alphaidx="здравствовать" />
+	</file>
+	<file path="rus-7218bef2.mp3">
+		<tag 
+			swac_text="плохой"
+			swac_alphaidx="плохой" />
+	</file>
+	<file path="rus-723833d6.mp3">
+		<tag 
+			swac_text="приготовить"
+			swac_alphaidx="приготовить" />
+	</file>
+	<file path="rus-72535ce2.mp3">
+		<tag 
+			swac_text="буква"
+			swac_alphaidx="буква" />
+	</file>
+	<file path="rus-72adc5f4.mp3">
+		<tag 
+			swac_text="писаться"
+			swac_alphaidx="писаться" />
+	</file>
+	<file path="rus-72d0d081.mp3">
+		<tag 
+			swac_text="Англия"
+			swac_alphaidx="Англия" />
+	</file>
+	<file path="rus-7301166d.mp3">
+		<tag 
+			swac_text="актёр"
+			swac_alphaidx="актёр" />
+	</file>
+	<file path="rus-731d762f.mp3">
+		<tag 
+			swac_text="национальный"
+			swac_alphaidx="национальный" />
+	</file>
+	<file path="rus-735d20a4.mp3">
+		<tag 
+			swac_text="книжный"
+			swac_alphaidx="книжный" />
+	</file>
+	<file path="rus-73822c66.mp3">
+		<tag 
+			swac_text="всё ещё" />
+	</file>
+	<file path="rus-74036bc0.mp3">
+		<tag 
+			swac_text="пьеса по роману" />
+	</file>
+	<file path="rus-741c3a28.mp3">
+		<tag 
+			swac_text="молодец"
+			swac_alphaidx="молодец" />
+	</file>
+	<file path="rus-7443412f.mp3">
+		<tag 
+			swac_text="готовиться"
+			swac_alphaidx="готовиться" />
+	</file>
+	<file path="rus-746b73d1.mp3">
+		<tag 
+			swac_text="многое"
+			swac_alphaidx="многое" />
+	</file>
+	<file path="rus-74dd3003.mp3">
+		<tag 
+			swac_text="алло"
+			swac_alphaidx="алло" />
+	</file>
+	<file path="rus-750673b7.mp3">
+		<tag 
+			swac_text="начинать"
+			swac_alphaidx="начинать" />
+	</file>
+	<file path="rus-75d628cf.mp3">
+		<tag 
+			swac_text="согласен"
+			swac_alphaidx="согласен" />
+	</file>
+	<file path="rus-7701fe97.mp3">
+		<tag 
+			swac_text="город"
+			swac_alphaidx="город" />
+	</file>
+	<file path="rus-7795d556.mp3">
+		<tag 
+			swac_text="молоко"
+			swac_alphaidx="молоко" />
+	</file>
+	<file path="rus-77b9f535.mp3">
+		<tag 
+			swac_text="прочитать"
+			swac_alphaidx="прочитать" />
+	</file>
+	<file path="rus-77ed472a.mp3">
+		<tag 
+			swac_text="считать"
+			swac_alphaidx="считать" />
+	</file>
+	<file path="rus-77ee85aa.mp3">
+		<tag 
+			swac_text="чёрный"
+			swac_alphaidx="чёрный" />
+	</file>
+	<file path="rus-7808e6d9.mp3">
+		<tag 
+			swac_text="отец"
+			swac_alphaidx="отец" />
+	</file>
+	<file path="rus-7878dcba.mp3">
+		<tag 
+			swac_text="рекламный"
+			swac_alphaidx="рекламный" />
+	</file>
+	<file path="rus-79264b2f.mp3">
+		<tag 
+			swac_text="шутить"
+			swac_alphaidx="шутить" />
+	</file>
+	<file path="rus-7926c141.mp3">
+		<tag 
+			swac_text="двадцать"
+			swac_alphaidx="двадцать" />
+	</file>
+	<file path="rus-79585733.mp3">
+		<tag 
+			swac_text="лимон"
+			swac_alphaidx="лимон" />
+	</file>
+	<file path="rus-79b4391b.mp3">
+		<tag 
+			swac_text="Мексика"
+			swac_alphaidx="Мексика" />
+	</file>
+	<file path="rus-79fa7da4.mp3">
+		<tag 
+			swac_text="тридцать"
+			swac_alphaidx="тридцать" />
+	</file>
+	<file path="rus-7a44b87e.mp3">
+		<tag 
+			swac_text="ужас"
+			swac_alphaidx="ужас" />
+	</file>
+	<file path="rus-7a8584e4.mp3">
+		<tag 
+			swac_text="Вероника"
+			swac_alphaidx="Вероника" />
+	</file>
+	<file path="rus-7a9e8e22.mp3">
+		<tag 
+			swac_text="хотеть"
+			swac_alphaidx="хотеть" />
+	</file>
+	<file path="rus-7ab80006.mp3">
+		<tag 
+			swac_text="воскресенье"
+			swac_alphaidx="воскресенье" />
+	</file>
+	<file path="rus-7af28416.mp3">
+		<tag 
+			swac_text="вторник"
+			swac_alphaidx="вторник" />
+	</file>
+	<file path="rus-7b0bba41.mp3">
+		<tag 
+			swac_text="так много" />
+	</file>
+	<file path="rus-7ba5e42d.mp3">
+		<tag 
+			swac_text="выучить"
+			swac_alphaidx="выучить" />
+	</file>
+	<file path="rus-7c0c24a9.mp3">
+		<tag 
+			swac_text="Аня"
+			swac_alphaidx="Аня" />
+	</file>
+	<file path="rus-7c45eed6.mp3">
+		<tag 
+			swac_text="через"
+			swac_alphaidx="через" />
+	</file>
+	<file path="rus-7c8b6811.mp3">
+		<tag 
+			swac_text="часы"
+			swac_alphaidx="часы" />
+	</file>
+	<file path="rus-7cb1f3f9.mp3">
+		<tag 
+			swac_text="дорогой"
+			swac_alphaidx="дорогой" />
+	</file>
+	<file path="rus-7ccd619b.mp3">
+		<tag 
+			swac_text="море"
+			swac_alphaidx="море" />
+	</file>
+	<file path="rus-7d32fbd6.mp3">
+		<tag 
+			swac_text="американский"
+			swac_alphaidx="американский" />
+	</file>
+	<file path="rus-7d6e191a.mp3">
+		<tag 
+			swac_text="раньше"
+			swac_alphaidx="раньше" />
+	</file>
+	<file path="rus-7d83edc0.mp3">
+		<tag 
+			swac_text="мобильный"
+			swac_alphaidx="мобильный" />
+	</file>
+	<file path="rus-7e20258c.mp3">
+		<tag 
+			swac_text="всегда"
+			swac_alphaidx="всегда" />
+	</file>
+	<file path="rus-7efaed76.mp3">
+		<tag 
+			swac_text="тон"
+			swac_alphaidx="тон" />
+	</file>
+	<file path="rus-7f04ac35.mp3">
+		<tag 
+			swac_text="нормально"
+			swac_alphaidx="нормально" />
+	</file>
+	<file path="rus-7f304c1c.mp3">
+		<tag 
+			swac_text="почему"
+			swac_alphaidx="почему" />
+	</file>
+	<file path="rus-7f6ec36c.mp3">
+		<tag 
+			swac_text="игрек"
+			swac_alphaidx="игрек" />
+	</file>
+	<file path="rus-7f7384d0.mp3">
+		<tag 
+			swac_text="исторический"
+			swac_alphaidx="исторический" />
+	</file>
+	<file path="rus-7fbc50fa.mp3">
+		<tag 
+			swac_text="сорок"
+			swac_alphaidx="сорок" />
+	</file>
+	<file path="rus-7fc900cf.mp3">
+		<tag 
+			swac_text="Мартиника"
+			swac_alphaidx="Мартиника" />
+	</file>
+	<file path="rus-7ff4c087.mp3">
+		<tag 
+			swac_text="каждый"
+			swac_alphaidx="каждый" />
+	</file>
+	<file path="rus-80789ec8.mp3">
+		<tag 
+			swac_text="полчаса"
+			swac_alphaidx="полчаса" />
+	</file>
+	<file path="rus-8095f823.mp3">
+		<tag 
+			swac_text="выигрывать"
+			swac_alphaidx="выигрывать" />
+	</file>
+	<file path="rus-80cec83e.mp3">
+		<tag 
+			swac_text="минута"
+			swac_alphaidx="минута" />
+	</file>
+	<file path="rus-80cf7d55.mp3">
+		<tag 
+			swac_text="на"
+			swac_alphaidx="на" />
+	</file>
+	<file path="rus-81b4f68d.mp3">
+		<tag 
+			swac_text="осенью"
+			swac_alphaidx="осенью" />
+	</file>
+	<file path="rus-81d45975.mp3">
+		<tag 
+			swac_text="героиня"
+			swac_alphaidx="героиня" />
+	</file>
+	<file path="rus-8206f395.mp3">
+		<tag 
+			swac_text="городской"
+			swac_alphaidx="городской" />
+	</file>
+	<file path="rus-821ceec6.mp3">
+		<tag 
+			swac_text="странный"
+			swac_alphaidx="странный" />
+	</file>
+	<file path="rus-82859393.mp3">
+		<tag 
+			swac_text="продавать"
+			swac_alphaidx="продавать" />
+	</file>
+	<file path="rus-829f252d.mp3">
+		<tag 
+			swac_text="сказать"
+			swac_alphaidx="сказать" />
+	</file>
+	<file path="rus-82aa1fff.mp3">
+		<tag 
+			swac_text="Вася"
+			swac_alphaidx="Вася" />
+	</file>
+	<file path="rus-82f20068.mp3">
+		<tag 
+			swac_text="стоматолог"
+			swac_alphaidx="стоматолог" />
+	</file>
+	<file path="rus-83065a05.mp3">
+		<tag 
+			swac_text="бабушка"
+			swac_alphaidx="бабушка" />
+	</file>
+	<file path="rus-831bbc21.mp3">
+		<tag 
+			swac_text="самый"
+			swac_alphaidx="самый" />
+	</file>
+	<file path="rus-8349c4b0.mp3">
+		<tag 
+			swac_text="искать"
+			swac_alphaidx="искать" />
+	</file>
+	<file path="rus-841997eb.mp3">
+		<tag 
+			swac_text="обед"
+			swac_alphaidx="обед" />
+	</file>
+	<file path="rus-84fbd41e.mp3">
+		<tag 
+			swac_text="спрашивать"
+			swac_alphaidx="спрашивать" />
+	</file>
+	<file path="rus-850d1f30.mp3">
+		<tag 
+			swac_text="осень"
+			swac_alphaidx="осень" />
+	</file>
+	<file path="rus-85377397.mp3">
+		<tag 
+			swac_text="дача"
+			swac_alphaidx="дача" />
+	</file>
+	<file path="rus-85f3f6b5.mp3">
+		<tag 
+			swac_text="разный"
+			swac_alphaidx="разный" />
+	</file>
+	<file path="rus-8604a3fe.mp3">
+		<tag 
+			swac_text="биография"
+			swac_alphaidx="биография" />
+	</file>
+	<file path="rus-8667b2dd.mp3">
+		<tag 
+			swac_text="мать"
+			swac_alphaidx="мать" />
+	</file>
+	<file path="rus-8691c160.mp3">
+		<tag 
+			swac_text="только"
+			swac_alphaidx="только" />
+	</file>
+	<file path="rus-86ae1104.mp3">
+		<tag 
+			swac_text="тогда"
+			swac_alphaidx="тогда" />
+	</file>
+	<file path="rus-871c6ebe.mp3">
+		<tag 
+			swac_text="сентябрь"
+			swac_alphaidx="сентябрь" />
+	</file>
+	<file path="rus-875df298.mp3">
+		<tag 
+			swac_text="знать от кого-либо" />
+	</file>
+	<file path="rus-87bd5bed.mp3">
+		<tag 
+			swac_text="Флорида"
+			swac_alphaidx="Флорида" />
+	</file>
+	<file path="rus-87c17fb7.mp3">
+		<tag 
+			swac_text="машина"
+			swac_alphaidx="машина" />
+	</file>
+	<file path="rus-87c46cd2.mp3">
+		<tag 
+			swac_text="трудно"
+			swac_alphaidx="трудно" />
+	</file>
+	<file path="rus-87ffe381.mp3">
+		<tag 
+			swac_text="пить"
+			swac_alphaidx="пить" />
+	</file>
+	<file path="rus-88cea236.mp3">
+		<tag 
+			swac_text="успех"
+			swac_alphaidx="успех" />
+	</file>
+	<file path="rus-88d91acc.mp3">
+		<tag 
+			swac_text="болеть"
+			swac_alphaidx="болеть" />
+	</file>
+	<file path="rus-891dafeb.mp3">
+		<tag 
+			swac_text="холодильник"
+			swac_alphaidx="холодильник" />
+	</file>
+	<file path="rus-89d7a156.mp3">
+		<tag 
+			swac_text="по-русски"
+			swac_alphaidx="по-русски" />
+	</file>
+	<file path="rus-8a6e918e.mp3">
+		<tag 
+			swac_text="половина"
+			swac_alphaidx="половина" />
+	</file>
+	<file path="rus-8a925891.mp3">
+		<tag 
+			swac_text="здесь"
+			swac_alphaidx="здесь" />
+	</file>
+	<file path="rus-8af002ca.mp3">
+		<tag 
+			swac_text="час"
+			swac_alphaidx="час" />
+	</file>
+	<file path="rus-8af7ef0d.mp3">
+		<tag 
+			swac_text="слишком"
+			swac_alphaidx="слишком" />
+	</file>
+	<file path="rus-8b04a0fa.mp3">
+		<tag 
+			swac_text="покупать"
+			swac_alphaidx="покупать" />
+	</file>
+	<file path="rus-8b35582e.mp3">
+		<tag 
+			swac_text="чашка"
+			swac_alphaidx="чашка" />
+	</file>
+	<file path="rus-8b5eb48c.mp3">
+		<tag 
+			swac_text="нигде"
+			swac_alphaidx="нигде" />
+	</file>
+	<file path="rus-8bfc0e35.mp3">
+		<tag 
+			swac_text="спасибо"
+			swac_alphaidx="спасибо" />
+	</file>
+	<file path="rus-8c34e8ac.mp3">
+		<tag 
+			swac_text="пятьсот"
+			swac_alphaidx="пятьсот" />
+	</file>
+	<file path="rus-8c7f2a5b.mp3">
+		<tag 
+			swac_text="имя"
+			swac_alphaidx="имя" />
+	</file>
+	<file path="rus-8d5194cd.mp3">
+		<tag 
+			swac_text="пожалуйста"
+			swac_alphaidx="пожалуйста" />
+	</file>
+	<file path="rus-8d58f883.mp3">
+		<tag 
+			swac_text="за"
+			swac_alphaidx="за" />
+	</file>
+	<file path="rus-8dd7cbaf.mp3">
+		<tag 
+			swac_text="все"
+			swac_alphaidx="все" />
+	</file>
+	<file path="rus-8e14f567.mp3">
+		<tag 
+			swac_text="ни"
+			swac_alphaidx="ни" />
+	</file>
+	<file path="rus-8ed820ee.mp3">
+		<tag 
+			swac_text="всего хорошего !" />
+	</file>
+	<file path="rus-8f151067.mp3">
+		<tag 
+			swac_text="эгоист"
+			swac_alphaidx="эгоист" />
+	</file>
+	<file path="rus-8f1e46da.mp3">
+		<tag 
+			swac_text="да"
+			swac_alphaidx="да" />
+	</file>
+	<file path="rus-8f565087.mp3">
+		<tag 
+			swac_text="актриса"
+			swac_alphaidx="актриса" />
+	</file>
+	<file path="rus-8f7e04f1.mp3">
+		<tag 
+			swac_text="я бы хотел" />
+	</file>
+	<file path="rus-8feab35b.mp3">
+		<tag 
+			swac_text="грипп"
+			swac_alphaidx="грипп" />
+	</file>
+	<file path="rus-9023dd62.mp3">
+		<tag 
+			swac_text="Борис"
+			swac_alphaidx="Борис" />
+	</file>
+	<file path="rus-90859627.mp3">
+		<tag 
+			swac_text="лифт"
+			swac_alphaidx="лифт" />
+	</file>
+	<file path="rus-90a466c8.mp3">
+		<tag 
+			swac_text="ирония"
+			swac_alphaidx="ирония" />
+	</file>
+	<file path="rus-90c93546.mp3">
+		<tag 
+			swac_text="смешной"
+			swac_alphaidx="смешной" />
+	</file>
+	<file path="rus-90da65d5.mp3">
+		<tag 
+			swac_text="недоволен"
+			swac_alphaidx="недоволен" />
+	</file>
+	<file path="rus-917544ff.mp3">
+		<tag 
+			swac_text="смешно"
+			swac_alphaidx="смешно" />
+	</file>
+	<file path="rus-91b4f6a6.mp3">
+		<tag 
+			swac_text="двенадцать"
+			swac_alphaidx="двенадцать" />
+	</file>
+	<file path="rus-92361af9.mp3">
+		<tag 
+			swac_text="слышать"
+			swac_alphaidx="слышать" />
+	</file>
+	<file path="rus-925200c4.mp3">
+		<tag 
+			swac_text="нет ни одного" />
+	</file>
+	<file path="rus-92887970.mp3">
+		<tag 
+			swac_text="девятьсот"
+			swac_alphaidx="девятьсот" />
+	</file>
+	<file path="rus-9380692f.mp3">
+		<tag 
+			swac_text="кино"
+			swac_alphaidx="кино" />
+	</file>
+	<file path="rus-93b6b6f0.mp3">
+		<tag 
+			swac_text="человек"
+			swac_alphaidx="человек" />
+	</file>
+	<file path="rus-9457577b.mp3">
+		<tag 
+			swac_text="сестра"
+			swac_alphaidx="сестра" />
+	</file>
+	<file path="rus-946975ae.mp3">
+		<tag 
+			swac_text="видеть"
+			swac_alphaidx="видеть" />
+	</file>
+	<file path="rus-9479f0e8.mp3">
+		<tag 
+			swac_text="тип"
+			swac_alphaidx="тип" />
+	</file>
+	<file path="rus-94a52798.mp3">
+		<tag 
+			swac_text="восемьсот"
+			swac_alphaidx="восемьсот" />
+	</file>
+	<file path="rus-94ad4c76.mp3">
+		<tag 
+			swac_text="помогать"
+			swac_alphaidx="помогать" />
+	</file>
+	<file path="rus-94ba8a42.mp3">
+		<tag 
+			swac_text="лучше"
+			swac_alphaidx="лучше" />
+	</file>
+	<file path="rus-94d6687e.mp3">
+		<tag 
+			swac_text="конец"
+			swac_alphaidx="конец" />
+	</file>
+	<file path="rus-9511cea7.mp3">
+		<tag 
+			swac_text="нормальный"
+			swac_alphaidx="нормальный" />
+	</file>
+	<file path="rus-95cbfa40.mp3">
+		<tag 
+			swac_text="под"
+			swac_alphaidx="под" />
+	</file>
+	<file path="rus-968072cc.mp3">
+		<tag 
+			swac_text="выпить"
+			swac_alphaidx="выпить" />
+	</file>
+	<file path="rus-9779bf3d.mp3">
+		<tag 
+			swac_text="мода"
+			swac_alphaidx="мода" />
+	</file>
+	<file path="rus-9786196d.mp3">
+		<tag 
+			swac_text="финансы"
+			swac_alphaidx="финансы" />
+	</file>
+	<file path="rus-979b3191.mp3">
+		<tag 
+			swac_text="купить"
+			swac_alphaidx="купить" />
+	</file>
+	<file path="rus-9801603e.mp3">
+		<tag 
+			swac_text="зимой"
+			swac_alphaidx="зимой" />
+	</file>
+	<file path="rus-98bfab33.mp3">
+		<tag 
+			swac_text="иностранец"
+			swac_alphaidx="иностранец" />
+	</file>
+	<file path="rus-98d9b606.mp3">
+		<tag 
+			swac_text="три"
+			swac_alphaidx="три" />
+	</file>
+	<file path="rus-98f25b4d.mp3">
+		<tag 
+			swac_text="политика"
+			swac_alphaidx="политика" />
+	</file>
+	<file path="rus-9908c119.mp3">
+		<tag 
+			swac_text="читать"
+			swac_alphaidx="читать" />
+	</file>
+	<file path="rus-99270010.mp3">
+		<tag 
+			swac_text="смотреть"
+			swac_alphaidx="смотреть" />
+	</file>
+	<file path="rus-99ebc5e3.mp3">
+		<tag 
+			swac_text="ночь"
+			swac_alphaidx="ночь" />
+	</file>
+	<file path="rus-9a0c528f.mp3">
+		<tag 
+			swac_text="Ирочка"
+			swac_alphaidx="Ирочка" />
+	</file>
+	<file path="rus-9a4b902c.mp3">
+		<tag 
+			swac_text="аппетит"
+			swac_alphaidx="аппетит" />
+	</file>
+	<file path="rus-9a5e2bb5.mp3">
+		<tag 
+			swac_text="рок"
+			swac_alphaidx="рок" />
+	</file>
+	<file path="rus-9ad9014d.mp3">
+		<tag 
+			swac_text="Я так думаю." />
+	</file>
+	<file path="rus-9adbb912.mp3">
+		<tag 
+			swac_text="прав"
+			swac_alphaidx="прав" />
+	</file>
+	<file path="rus-9bafa153.mp3">
+		<tag 
+			swac_text="десять"
+			swac_alphaidx="десять" />
+	</file>
+	<file path="rus-9bcae8ef.mp3">
+		<tag 
+			swac_text="мыть"
+			swac_alphaidx="мыть" />
+	</file>
+	<file path="rus-9c0b52f3.mp3">
+		<tag 
+			swac_text="Я так и знал !" />
+	</file>
+	<file path="rus-9c4f75a2.mp3">
+		<tag 
+			swac_text="август"
+			swac_alphaidx="август" />
+	</file>
+	<file path="rus-9c75baac.mp3">
+		<tag 
+			swac_text="президент"
+			swac_alphaidx="президент" />
+	</file>
+	<file path="rus-9cf0e006.mp3">
+		<tag 
+			swac_text="теннис"
+			swac_alphaidx="теннис" />
+	</file>
+	<file path="rus-9d1b134c.mp3">
+		<tag 
+			swac_text="извини"
+			swac_alphaidx="извини" />
+	</file>
+	<file path="rus-9d52d6ba.mp3">
+		<tag 
+			swac_text="спор"
+			swac_alphaidx="спор" />
+	</file>
+	<file path="rus-9eb1a101.mp3">
+		<tag 
+			swac_text="чувство"
+			swac_alphaidx="чувство" />
+	</file>
+	<file path="rus-9ec0d6e5.mp3">
+		<tag 
+			swac_text="милиция"
+			swac_alphaidx="милиция" />
+	</file>
+	<file path="rus-9f67b698.mp3">
+		<tag 
+			swac_text="перед"
+			swac_alphaidx="перед" />
+	</file>
+	<file path="rus-9fc072ee.mp3">
+		<tag 
+			swac_text="винегрет"
+			swac_alphaidx="винегрет" />
+	</file>
+	<file path="rus-a006fe71.mp3">
+		<tag 
+			swac_text="немного"
+			swac_alphaidx="немного" />
+	</file>
+	<file path="rus-a0b42a95.mp3">
+		<tag 
+			swac_text="клиент"
+			swac_alphaidx="клиент" />
+	</file>
+	<file path="rus-a12703d0.mp3">
+		<tag 
+			swac_text="шедевр"
+			swac_alphaidx="шедевр" />
+	</file>
+	<file path="rus-a1ec3db2.mp3">
+		<tag 
+			swac_text="писать"
+			swac_alphaidx="писать" />
+	</file>
+	<file path="rus-a20c63cf.mp3">
+		<tag 
+			swac_text="говорить о чём-либо" />
+	</file>
+	<file path="rus-a25421e3.mp3">
+		<tag 
+			swac_text="женщина"
+			swac_alphaidx="женщина" />
+	</file>
+	<file path="rus-a25b7440.mp3">
+		<tag 
+			swac_text="тринадцать"
+			swac_alphaidx="тринадцать" />
+	</file>
+	<file path="rus-a27df146.mp3">
+		<tag 
+			swac_text="закуски"
+			swac_alphaidx="закуски" />
+	</file>
+	<file path="rus-a292857e.mp3">
+		<tag 
+			swac_text="вчера"
+			swac_alphaidx="вчера" />
+	</file>
+	<file path="rus-a2981636.mp3">
+		<tag 
+			swac_text="экология"
+			swac_alphaidx="экология" />
+	</file>
+	<file path="rus-a2f0e47a.mp3">
+		<tag 
+			swac_text="белый"
+			swac_alphaidx="белый" />
+	</file>
+	<file path="rus-a346d7b8.mp3">
+		<tag 
+			swac_text="сын"
+			swac_alphaidx="сын" />
+	</file>
+	<file path="rus-a34fccd4.mp3">
+		<tag 
+			swac_text="ананас"
+			swac_alphaidx="ананас" />
+	</file>
+	<file path="rus-a35b2182.mp3">
+		<tag 
+			swac_text="они"
+			swac_alphaidx="они" />
+	</file>
+	<file path="rus-a38b7328.mp3">
+		<tag 
+			swac_text="цирк"
+			swac_alphaidx="цирк" />
+	</file>
+	<file path="rus-a3a891ed.mp3">
+		<tag 
+			swac_text="брать"
+			swac_alphaidx="брать" />
+	</file>
+	<file path="rus-a3de4c2e.mp3">
+		<tag 
+			swac_text="океан"
+			swac_alphaidx="океан" />
+	</file>
+	<file path="rus-a41084d4.mp3">
+		<tag 
+			swac_text="много"
+			swac_alphaidx="много" />
+	</file>
+	<file path="rus-a43d2f01.mp3">
+		<tag 
+			swac_text="больше"
+			swac_alphaidx="больше" />
+	</file>
+	<file path="rus-a4883a73.mp3">
+		<tag 
+			swac_text="кассир"
+			swac_alphaidx="кассир" />
+	</file>
+	<file path="rus-a4e54aac.mp3">
+		<tag 
+			swac_text="радио"
+			swac_alphaidx="радио" />
+	</file>
+	<file path="rus-a4fd7810.mp3">
+		<tag 
+			swac_text="я"
+			swac_alphaidx="я" />
+	</file>
+	<file path="rus-a644d127.mp3">
+		<tag 
+			swac_text="май"
+			swac_alphaidx="май" />
+	</file>
+	<file path="rus-a64e6527.mp3">
+		<tag 
+			swac_text="Тургенев"
+			swac_alphaidx="Тургенев" />
+	</file>
+	<file path="rus-a69ab20d.mp3">
+		<tag 
+			swac_text="банк"
+			swac_alphaidx="банк" />
+	</file>
+	<file path="rus-a6bb9380.mp3">
+		<tag 
+			swac_text="четыреста"
+			swac_alphaidx="четыреста" />
+	</file>
+	<file path="rus-a6e3703d.mp3">
+		<tag 
+			swac_text="метро"
+			swac_alphaidx="метро" />
+	</file>
+	<file path="rus-a6e68992.mp3">
+		<tag 
+			swac_text="готовить"
+			swac_alphaidx="готовить" />
+	</file>
+	<file path="rus-a721b176.mp3">
+		<tag 
+			swac_text="специалист"
+			swac_alphaidx="специалист" />
+	</file>
+	<file path="rus-a73e0205.mp3">
+		<tag 
+			swac_text="сок"
+			swac_alphaidx="сок" />
+	</file>
+	<file path="rus-a7afa14d.mp3">
+		<tag 
+			swac_text="стол"
+			swac_alphaidx="стол" />
+	</file>
+	<file path="rus-a86af01a.mp3">
+		<tag 
+			swac_text="муж"
+			swac_alphaidx="муж" />
+	</file>
+	<file path="rus-a8cf1e3f.mp3">
+		<tag 
+			swac_text="всё"
+			swac_alphaidx="всё" />
+	</file>
+	<file path="rus-a8fc10aa.mp3">
+		<tag 
+			swac_text="доволен"
+			swac_alphaidx="доволен" />
+	</file>
+	<file path="rus-a901879f.mp3">
+		<tag 
+			swac_text="адрес"
+			swac_alphaidx="адрес" />
+	</file>
+	<file path="rus-a978e9e3.mp3">
+		<tag 
+			swac_text="Париж"
+			swac_alphaidx="Париж" />
+	</file>
+	<file path="rus-a97f6660.mp3">
+		<tag 
+			swac_text="семнадцать"
+			swac_alphaidx="семнадцать" />
+	</file>
+	<file path="rus-a985de17.mp3">
+		<tag 
+			swac_text="журналист"
+			swac_alphaidx="журналист" />
+	</file>
+	<file path="rus-a9a2119f.mp3">
+		<tag 
+			swac_text="латинский"
+			swac_alphaidx="латинский" />
+	</file>
+	<file path="rus-a9a5f41e.mp3">
+		<tag 
+			swac_text="Франция"
+			swac_alphaidx="Франция" />
+	</file>
+	<file path="rus-a9c12bee.mp3">
+		<tag 
+			swac_text="Петровна"
+			swac_alphaidx="Петровна" />
+	</file>
+	<file path="rus-aa14827e.mp3">
+		<tag 
+			swac_text="спорить"
+			swac_alphaidx="спорить" />
+	</file>
+	<file path="rus-aa3d7148.mp3">
+		<tag 
+			swac_text="нас"
+			swac_alphaidx="нас" />
+	</file>
+	<file path="rus-aa85a0e2.mp3">
+		<tag 
+			swac_text="дома"
+			swac_alphaidx="дома" />
+	</file>
+	<file path="rus-abd6a82c.mp3">
+		<tag 
+			swac_text="спорт"
+			swac_alphaidx="спорт" />
+	</file>
+	<file path="rus-abe49903.mp3">
+		<tag 
+			swac_text="апрель"
+			swac_alphaidx="апрель" />
+	</file>
+	<file path="rus-ac0f88aa.mp3">
+		<tag 
+			swac_text="пока"
+			swac_alphaidx="пока" />
+	</file>
+	<file path="rus-ac63f21d.mp3">
+		<tag 
+			swac_text="рука"
+			swac_alphaidx="рука" />
+	</file>
+	<file path="rus-ac7cef46.mp3">
+		<tag 
+			swac_text="ехать"
+			swac_alphaidx="ехать" />
+	</file>
+	<file path="rus-ac95bba1.mp3">
+		<tag 
+			swac_text="вопрос"
+			swac_alphaidx="вопрос" />
+	</file>
+	<file path="rus-acdafc2d.mp3">
+		<tag 
+			swac_text="мой"
+			swac_alphaidx="мой" />
+	</file>
+	<file path="rus-acf5bd58.mp3">
+		<tag 
+			swac_text="играть"
+			swac_alphaidx="играть" />
+	</file>
+	<file path="rus-ad233d0e.mp3">
+		<tag 
+			swac_text="Верочка"
+			swac_alphaidx="Верочка" />
+	</file>
+	<file path="rus-ad4b343b.mp3">
+		<tag 
+			swac_text="у"
+			swac_alphaidx="у" />
+	</file>
+	<file path="rus-ad4e879b.mp3">
+		<tag 
+			swac_text="экзамен"
+			swac_alphaidx="экзамен" />
+	</file>
+	<file path="rus-ad7a5969.mp3">
+		<tag 
+			swac_text="недовольна"
+			swac_alphaidx="недовольна" />
+	</file>
+	<file path="rus-ad80a9b0.mp3">
+		<tag 
+			swac_text="она"
+			swac_alphaidx="она" />
+	</file>
+	<file path="rus-ad9d5e57.mp3">
+		<tag 
+			swac_text="выйти"
+			swac_alphaidx="выйти" />
+	</file>
+	<file path="rus-adbdc2c5.mp3">
+		<tag 
+			swac_text="тепло"
+			swac_alphaidx="тепло" />
+	</file>
+	<file path="rus-af1444a2.mp3">
+		<tag 
+			swac_text="шесть"
+			swac_alphaidx="шесть" />
+	</file>
+	<file path="rus-af16f882.mp3">
+		<tag 
+			swac_text="можно"
+			swac_alphaidx="можно" />
+	</file>
+	<file path="rus-af4f71ca.mp3">
+		<tag 
+			swac_text="соль"
+			swac_alphaidx="соль" />
+	</file>
+	<file path="rus-af87347a.mp3">
+		<tag 
+			swac_text="архитектура"
+			swac_alphaidx="архитектура" />
+	</file>
+	<file path="rus-af89f043.mp3">
+		<tag 
+			swac_text="поговорить"
+			swac_alphaidx="поговорить" />
+	</file>
+	<file path="rus-afa61e1a.mp3">
+		<tag 
+			swac_text="поискать"
+			swac_alphaidx="поискать" />
+	</file>
+	<file path="rus-afb2e89f.mp3">
+		<tag 
+			swac_text="Волгоград"
+			swac_alphaidx="Волгоград" />
+	</file>
+	<file path="rus-afc2b887.mp3">
+		<tag 
+			swac_text="через неделю" />
+	</file>
+	<file path="rus-afca355a.mp3">
+		<tag 
+			swac_text="такой"
+			swac_alphaidx="такой" />
+	</file>
+	<file path="rus-b00d753d.mp3">
+		<tag 
+			swac_text="как"
+			swac_alphaidx="как" />
+	</file>
+	<file path="rus-b09cea67.mp3">
+		<tag 
+			swac_text="Витя"
+			swac_alphaidx="Витя" />
+	</file>
+	<file path="rus-b0a6e2e0.mp3">
+		<tag 
+			swac_text="атлантический"
+			swac_alphaidx="атлантический" />
+	</file>
+	<file path="rus-b0ac603f.mp3">
+		<tag 
+			swac_text="Россия"
+			swac_alphaidx="Россия" />
+	</file>
+	<file path="rus-b0e21483.mp3">
+		<tag 
+			swac_text="французский"
+			swac_alphaidx="французский" />
+	</file>
+	<file path="rus-b1576370.mp3">
+		<tag 
+			swac_text="депутат"
+			swac_alphaidx="депутат" />
+	</file>
+	<file path="rus-b163fd77.mp3">
+		<tag 
+			swac_text="шестнадцать"
+			swac_alphaidx="шестнадцать" />
+	</file>
+	<file path="rus-b16d77c0.mp3">
+		<tag 
+			swac_text="четырнадцать"
+			swac_alphaidx="четырнадцать" />
+	</file>
+	<file path="rus-b1718707.mp3">
+		<tag 
+			swac_text="давно"
+			swac_alphaidx="давно" />
+	</file>
+	<file path="rus-b1b56e1b.mp3">
+		<tag 
+			swac_text="почта"
+			swac_alphaidx="почта" />
+	</file>
+	<file path="rus-b2036297.mp3">
+		<tag 
+			swac_text="думать о чём-либо" />
+	</file>
+	<file path="rus-b22b8ef1.mp3">
+		<tag 
+			swac_text="мамочка"
+			swac_alphaidx="мамочка" />
+	</file>
+	<file path="rus-b303efc1.mp3">
+		<tag 
+			swac_text="Катя"
+			swac_alphaidx="Катя" />
+	</file>
+	<file path="rus-b33ba723.mp3">
+		<tag 
+			swac_text="делать"
+			swac_alphaidx="делать" />
+	</file>
+	<file path="rus-b37ba0ab.mp3">
+		<tag 
+			swac_text="полезно"
+			swac_alphaidx="полезно" />
+	</file>
+	<file path="rus-b4199d82.mp3">
+		<tag 
+			swac_text="до свидания" />
+	</file>
+	<file path="rus-b4a42db0.mp3">
+		<tag 
+			swac_text="врач"
+			swac_alphaidx="врач" />
+	</file>
+	<file path="rus-b4ac532e.mp3">
+		<tag 
+			swac_text="кстати"
+			swac_alphaidx="кстати" />
+	</file>
+	<file path="rus-b4f5c7cc.mp3">
+		<tag 
+			swac_text="семьсот"
+			swac_alphaidx="семьсот" />
+	</file>
+	<file path="rus-b5440e57.mp3">
+		<tag 
+			swac_text="жизнь"
+			swac_alphaidx="жизнь" />
+	</file>
+	<file path="rus-b5aa1dff.mp3">
+		<tag 
+			swac_text="фирма"
+			swac_alphaidx="фирма" />
+	</file>
+	<file path="rus-b5e71bb3.mp3">
+		<tag 
+			swac_text="почитать"
+			swac_alphaidx="почитать" />
+	</file>
+	<file path="rus-b60216ce.mp3">
+		<tag 
+			swac_text="Лиля"
+			swac_alphaidx="Лиля" />
+	</file>
+	<file path="rus-b6115bbc.mp3">
+		<tag 
+			swac_text="вместе"
+			swac_alphaidx="вместе" />
+	</file>
+	<file path="rus-b7330111.mp3">
+		<tag 
+			swac_text="конечно"
+			swac_alphaidx="конечно" />
+	</file>
+	<file path="rus-b7a93419.mp3">
+		<tag 
+			swac_text="критика"
+			swac_alphaidx="критика" />
+	</file>
+	<file path="rus-b7ab4ff3.mp3">
+		<tag 
+			swac_text="лёгкий"
+			swac_alphaidx="лёгкий" />
+	</file>
+	<file path="rus-b7f2ce05.mp3">
+		<tag 
+			swac_text="суббота"
+			swac_alphaidx="суббота" />
+	</file>
+	<file path="rus-b8164ecb.mp3">
+		<tag 
+			swac_text="язык"
+			swac_alphaidx="язык" />
+	</file>
+	<file path="rus-b8e4337f.mp3">
+		<tag 
+			swac_text="Его нет дома." />
+	</file>
+	<file path="rus-b94f710a.mp3">
+		<tag 
+			swac_text="иногда"
+			swac_alphaidx="иногда" />
+	</file>
+	<file path="rus-b95e695e.mp3">
+		<tag 
+			swac_text="октябрь"
+			swac_alphaidx="октябрь" />
+	</file>
+	<file path="rus-b97a67c8.mp3">
+		<tag 
+			swac_text="учить"
+			swac_alphaidx="учить" />
+	</file>
+	<file path="rus-b9c2dda0.mp3">
+		<tag 
+			swac_text="весной"
+			swac_alphaidx="весной" />
+	</file>
+	<file path="rus-ba03c19f.mp3">
+		<tag 
+			swac_text="одиннадцатый"
+			swac_alphaidx="одиннадцатый" />
+	</file>
+	<file path="rus-ba8dd5a2.mp3">
+		<tag 
+			swac_text="сказка"
+			swac_alphaidx="сказка" />
+	</file>
+	<file path="rus-bad45965.mp3">
+		<tag 
+			swac_text="звонить по телефону" />
+	</file>
+	<file path="rus-bade482d.mp3">
+		<tag 
+			swac_text="что"
+			swac_alphaidx="что" />
+	</file>
+	<file path="rus-bb7710c1.mp3">
+		<tag 
+			swac_text="евро"
+			swac_alphaidx="евро" />
+	</file>
+	<file path="rus-bbe98b15.mp3">
+		<tag 
+			swac_text="чай"
+			swac_alphaidx="чай" />
+	</file>
+	<file path="rus-bbfa9a29.mp3">
+		<tag 
+			swac_text="вот"
+			swac_alphaidx="вот" />
+	</file>
+	<file path="rus-bc0a658c.mp3">
+		<tag 
+			swac_text="кухня"
+			swac_alphaidx="кухня" />
+	</file>
+	<file path="rus-bc74d756.mp3">
+		<tag 
+			swac_text="спросить"
+			swac_alphaidx="спросить" />
+	</file>
+	<file path="rus-bd4cc652.mp3">
+		<tag 
+			swac_text="серьёзный"
+			swac_alphaidx="серьёзный" />
+	</file>
+	<file path="rus-bd7328cd.mp3">
+		<tag 
+			swac_text="нужно"
+			swac_alphaidx="нужно" />
+	</file>
+	<file path="rus-bdc090b7.mp3">
+		<tag 
+			swac_text="мясо"
+			swac_alphaidx="мясо" />
+	</file>
+	<file path="rus-bdfc491f.mp3">
+		<tag 
+			swac_text="передача"
+			swac_alphaidx="передача" />
+	</file>
+	<file path="rus-be4414dc.mp3">
+		<tag 
+			swac_text="сидеть"
+			swac_alphaidx="сидеть" />
+	</file>
+	<file path="rus-becbcb80.mp3">
+		<tag 
+			swac_text="паспорт"
+			swac_alphaidx="паспорт" />
+	</file>
+	<file path="rus-bed7127d.mp3">
+		<tag 
+			swac_text="компьютер"
+			swac_alphaidx="компьютер" />
+	</file>
+	<file path="rus-bf04c13c.mp3">
+		<tag 
+			swac_text="Таня"
+			swac_alphaidx="Таня" />
+	</file>
+	<file path="rus-bf07f5fa.mp3">
+		<tag 
+			swac_text="идти"
+			swac_alphaidx="идти" />
+	</file>
+	<file path="rus-bf1ac37e.mp3">
+		<tag 
+			swac_text="добрый"
+			swac_alphaidx="добрый" />
+	</file>
+	<file path="rus-bf5460f8.mp3">
+		<tag 
+			swac_text="ты"
+			swac_alphaidx="ты" />
+	</file>
+	<file path="rus-bf6ee629.mp3">
+		<tag 
+			swac_text="почти"
+			swac_alphaidx="почти" />
+	</file>
+	<file path="rus-bf8e66e2.mp3">
+		<tag 
+			swac_text="бретонский"
+			swac_alphaidx="бретонский" />
+	</file>
+	<file path="rus-bfa7fa7a.mp3">
+		<tag 
+			swac_text="без"
+			swac_alphaidx="без" />
+	</file>
+	<file path="rus-bfbfb782.mp3">
+		<tag 
+			swac_text="Шурик"
+			swac_alphaidx="Шурик" />
+	</file>
+	<file path="rus-bfc8e6c6.mp3">
+		<tag 
+			swac_text="итальянский"
+			swac_alphaidx="итальянский" />
+	</file>
+	<file path="rus-bfcc843d.mp3">
+		<tag 
+			swac_text="всё-таки"
+			swac_alphaidx="всё-таки" />
+	</file>
+	<file path="rus-bff225f9.mp3">
+		<tag 
+			swac_text="книга"
+			swac_alphaidx="книга" />
+	</file>
+	<file path="rus-c0b0bc5d.mp3">
+		<tag 
+			swac_text="везде"
+			swac_alphaidx="везде" />
+	</file>
+	<file path="rus-c0c49c34.mp3">
+		<tag 
+			swac_text="гулять"
+			swac_alphaidx="гулять" />
+	</file>
+	<file path="rus-c1384bb6.mp3">
+		<tag 
+			swac_text="юстиция"
+			swac_alphaidx="юстиция" />
+	</file>
+	<file path="rus-c1669621.mp3">
+		<tag 
+			swac_text="показывать фильм по телевизору" />
+	</file>
+	<file path="rus-c1f1a315.mp3">
+		<tag 
+			swac_text="район"
+			swac_alphaidx="район" />
+	</file>
+	<file path="rus-c25c69c1.mp3">
+		<tag 
+			swac_text="домой"
+			swac_alphaidx="домой" />
+	</file>
+	<file path="rus-c2690750.mp3">
+		<tag 
+			swac_text="текст"
+			swac_alphaidx="текст" />
+	</file>
+	<file path="rus-c389d5f2.mp3">
+		<tag 
+			swac_text="секрет"
+			swac_alphaidx="секрет" />
+	</file>
+	<file path="rus-c39bf731.mp3">
+		<tag 
+			swac_text="комедия"
+			swac_alphaidx="комедия" />
+	</file>
+	<file path="rus-c3e69354.mp3">
+		<tag 
+			swac_text="секретарша"
+			swac_alphaidx="секретарша" />
+	</file>
+	<file path="rus-c43f4a7d.mp3">
+		<tag 
+			swac_text="брак"
+			swac_alphaidx="брак" />
+	</file>
+	<file path="rus-c44341b0.mp3">
+		<tag 
+			swac_text="орёл"
+			swac_alphaidx="орёл" />
+	</file>
+	<file path="rus-c4754bcb.mp3">
+		<tag 
+			swac_text="думать"
+			swac_alphaidx="думать" />
+	</file>
+	<file path="rus-c4a4772f.mp3">
+		<tag 
+			swac_text="вечером"
+			swac_alphaidx="вечером" />
+	</file>
+	<file path="rus-c4ad6b66.mp3">
+		<tag 
+			swac_text="мало"
+			swac_alphaidx="мало" />
+	</file>
+	<file path="rus-c50ca20e.mp3">
+		<tag 
+			swac_text="модный"
+			swac_alphaidx="модный" />
+	</file>
+	<file path="rus-c5182071.mp3">
+		<tag 
+			swac_text="холодный"
+			swac_alphaidx="холодный" />
+	</file>
+	<file path="rus-c58e0d27.mp3">
+		<tag 
+			swac_text="значить"
+			swac_alphaidx="значить" />
+	</file>
+	<file path="rus-c58e2dc7.mp3">
+		<tag 
+			swac_text="блеклый"
+			swac_alphaidx="блеклый" />
+	</file>
+	<file path="rus-c5ac3acd.mp3">
+		<tag 
+			swac_text="музыка"
+			swac_alphaidx="музыка" />
+	</file>
+	<file path="rus-c64d6aad.mp3">
+		<tag 
+			swac_text="мальчик"
+			swac_alphaidx="мальчик" />
+	</file>
+	<file path="rus-c6837f87.mp3">
+		<tag 
+			swac_text="ресторан"
+			swac_alphaidx="ресторан" />
+	</file>
+	<file path="rus-c6bfd1e9.mp3">
+		<tag 
+			swac_text="няня"
+			swac_alphaidx="няня" />
+	</file>
+	<file path="rus-c7d7fea1.mp3">
+		<tag 
+			swac_text="озеро"
+			swac_alphaidx="озеро" />
+	</file>
+	<file path="rus-c8627416.mp3">
+		<tag 
+			swac_text="директор"
+			swac_alphaidx="директор" />
+	</file>
+	<file path="rus-c9101eba.mp3">
+		<tag 
+			swac_text="ошибка"
+			swac_alphaidx="ошибка" />
+	</file>
+	<file path="rus-c9110d71.mp3">
+		<tag 
+			swac_text="быстро"
+			swac_alphaidx="быстро" />
+	</file>
+	<file path="rus-c91a2b94.mp3">
+		<tag 
+			swac_text="извинить"
+			swac_alphaidx="извинить" />
+	</file>
+	<file path="rus-c9b91080.mp3">
+		<tag 
+			swac_text="особенный"
+			swac_alphaidx="особенный" />
+	</file>
+	<file path="rus-ca0006a8.mp3">
+		<tag 
+			swac_text="услышать"
+			swac_alphaidx="услышать" />
+	</file>
+	<file path="rus-ca826c60.mp3">
+		<tag 
+			swac_text="особенно"
+			swac_alphaidx="особенно" />
+	</file>
+	<file path="rus-cac47ae2.mp3">
+		<tag 
+			swac_text="родители"
+			swac_alphaidx="родители" />
+	</file>
+	<file path="rus-cae79c0c.mp3">
+		<tag 
+			swac_text="серьёзно"
+			swac_alphaidx="серьёзно" />
+	</file>
+	<file path="rus-cb010f08.mp3">
+		<tag 
+			swac_text="успешный"
+			swac_alphaidx="успешный" />
+	</file>
+	<file path="rus-cb433eb2.mp3">
+		<tag 
+			swac_text="автор"
+			swac_alphaidx="автор" />
+	</file>
+	<file path="rus-cb5992ef.mp3">
+		<tag 
+			swac_text="вот и всё" />
+	</file>
+	<file path="rus-cb77a2aa.mp3">
+		<tag 
+			swac_text="спортивный"
+			swac_alphaidx="спортивный" />
+	</file>
+	<file path="rus-cbafc778.mp3">
+		<tag 
+			swac_text="то есть" />
+	</file>
+	<file path="rus-cbec1f26.mp3">
+		<tag 
+			swac_text="готовиться к чему-либо" />
+	</file>
+	<file path="rus-cc6d4cdc.mp3">
+		<tag 
+			swac_text="первый"
+			swac_alphaidx="первый" />
+	</file>
+	<file path="rus-ccb71a09.mp3">
+		<tag 
+			swac_text="кукушка"
+			swac_alphaidx="кукушка" />
+	</file>
+	<file path="rus-ccc39b0c.mp3">
+		<tag 
+			swac_text="большой"
+			swac_alphaidx="большой" />
+	</file>
+	<file path="rus-ccd33cb6.mp3">
+		<tag 
+			swac_text="называться"
+			swac_alphaidx="называться" />
+	</file>
+	<file path="rus-cd48bd71.mp3">
+		<tag 
+			swac_text="чем"
+			swac_alphaidx="чем" />
+	</file>
+	<file path="rus-cd977adf.mp3">
+		<tag 
+			swac_text="правда"
+			swac_alphaidx="правда" />
+	</file>
+	<file path="rus-cdba2cae.mp3">
+		<tag 
+			swac_text="значение"
+			swac_alphaidx="значение" />
+	</file>
+	<file path="rus-cdc81ec1.mp3">
+		<tag 
+			swac_text="интересный"
+			swac_alphaidx="интересный" />
+	</file>
+	<file path="rus-cdd1e5f8.mp3">
+		<tag 
+			swac_text="мнение"
+			swac_alphaidx="мнение" />
+	</file>
+	<file path="rus-ce154108.mp3">
+		<tag 
+			swac_text="девятнадцать"
+			swac_alphaidx="девятнадцать" />
+	</file>
+	<file path="rus-ce61319f.mp3">
+		<tag 
+			swac_text="вдруг"
+			swac_alphaidx="вдруг" />
+	</file>
+	<file path="rus-ce8e1e02.mp3">
+		<tag 
+			swac_text="девять"
+			swac_alphaidx="девять" />
+	</file>
+	<file path="rus-cedc3f1e.mp3">
+		<tag 
+			swac_text="Николай"
+			swac_alphaidx="Николай" />
+	</file>
+	<file path="rus-cf37b471.mp3">
+		<tag 
+			swac_text="всё время" />
+	</file>
+	<file path="rus-cf97c331.mp3">
+		<tag 
+			swac_text="просто"
+			swac_alphaidx="просто" />
+	</file>
+	<file path="rus-cf9aca4d.mp3">
+		<tag 
+			swac_text="скоро"
+			swac_alphaidx="скоро" />
+	</file>
+	<file path="rus-d0055b85.mp3">
+		<tag 
+			swac_text="Анюта"
+			swac_alphaidx="Анюта" />
+	</file>
+	<file path="rus-d061414d.mp3">
+		<tag 
+			swac_text="тоже"
+			swac_alphaidx="тоже" />
+	</file>
+	<file path="rus-d0719ad5.mp3">
+		<tag 
+			swac_text="понимать"
+			swac_alphaidx="понимать" />
+	</file>
+	<file path="rus-d09b6055.mp3">
+		<tag 
+			swac_text="завтра"
+			swac_alphaidx="завтра" />
+	</file>
+	<file path="rus-d0d1ca57.mp3">
+		<tag 
+			swac_text="посмотреть"
+			swac_alphaidx="посмотреть" />
+	</file>
+	<file path="rus-d10d3b59.mp3">
+		<tag 
+			swac_text="дверь"
+			swac_alphaidx="дверь" />
+	</file>
+	<file path="rus-d16cfe46.mp3">
+		<tag 
+			swac_text="деталь"
+			swac_alphaidx="деталь" />
+	</file>
+	<file path="rus-d1829044.mp3">
+		<tag 
+			swac_text="откуда"
+			swac_alphaidx="откуда" />
+	</file>
+	<file path="rus-d187f10a.mp3">
+		<tag 
+			swac_text="тот"
+			swac_alphaidx="тот" />
+	</file>
+	<file path="rus-d1e146f6.mp3">
+		<tag 
+			swac_text="Саша"
+			swac_alphaidx="Саша" />
+	</file>
+	<file path="rus-d24200e7.mp3">
+		<tag 
+			swac_text="русский"
+			swac_alphaidx="русский" />
+	</file>
+	<file path="rus-d264f106.mp3">
+		<tag 
+			swac_text="тот же" />
+	</file>
+	<file path="rus-d2791d44.mp3">
+		<tag 
+			swac_text="компьютерный"
+			swac_alphaidx="компьютерный" />
+	</file>
+	<file path="rus-d2e5c793.mp3">
+		<tag 
+			swac_text="талант"
+			swac_alphaidx="талант" />
+	</file>
+	<file path="rus-d366ca98.mp3">
+		<tag 
+			swac_text="взять"
+			swac_alphaidx="взять" />
+	</file>
+	<file path="rus-d3d0f136.mp3">
+		<tag 
+			swac_text="Так не надо !" />
+	</file>
+	<file path="rus-d3e1c9ec.mp3">
+		<tag 
+			swac_text="наш"
+			swac_alphaidx="наш" />
+	</file>
+	<file path="rus-d40b9b6b.mp3">
+		<tag 
+			swac_text="нелёгкий"
+			swac_alphaidx="нелёгкий" />
+	</file>
+	<file path="rus-d5ac2c6b.mp3">
+		<tag 
+			swac_text="знать"
+			swac_alphaidx="знать" />
+	</file>
+	<file path="rus-d5e13cae.mp3">
+		<tag 
+			swac_text="какой"
+			swac_alphaidx="какой" />
+	</file>
+	<file path="rus-d5e3d801.mp3">
+		<tag 
+			swac_text="Спящая красавица" />
+	</file>
+	<file path="rus-d613eb14.mp3">
+		<tag 
+			swac_text="утро"
+			swac_alphaidx="утро" />
+	</file>
+	<file path="rus-d6eb6c6f.mp3">
+		<tag 
+			swac_text="Мария"
+			swac_alphaidx="Мария" />
+	</file>
+	<file path="rus-d6f37991.mp3">
+		<tag 
+			swac_text="девушка"
+			swac_alphaidx="девушка" />
+	</file>
+	<file path="rus-d715ad8a.mp3">
+		<tag 
+			swac_text="Анна"
+			swac_alphaidx="Анна" />
+	</file>
+	<file path="rus-d734c9b5.mp3">
+		<tag 
+			swac_text="молодой"
+			swac_alphaidx="молодой" />
+	</file>
+	<file path="rus-d76a151e.mp3">
+		<tag 
+			swac_text="теперь"
+			swac_alphaidx="теперь" />
+	</file>
+	<file path="rus-d78e3a74.mp3">
+		<tag 
+			swac_text="работа"
+			swac_alphaidx="работа" />
+	</file>
+	<file path="rus-d7c184de.mp3">
+		<tag 
+			swac_text="прекрасный"
+			swac_alphaidx="прекрасный" />
+	</file>
+	<file path="rus-d7e7c659.mp3">
+		<tag 
+			swac_text="опасно"
+			swac_alphaidx="опасно" />
+	</file>
+	<file path="rus-d80d8af3.mp3">
+		<tag 
+			swac_text="хлеб"
+			swac_alphaidx="хлеб" />
+	</file>
+	<file path="rus-d9938111.mp3">
+		<tag 
+			swac_text="забыть"
+			swac_alphaidx="забыть" />
+	</file>
+	<file path="rus-da43afa2.mp3">
+		<tag 
+			swac_text="интересовать"
+			swac_alphaidx="интересовать" />
+	</file>
+	<file path="rus-da6fdab6.mp3">
+		<tag 
+			swac_text="словарь"
+			swac_alphaidx="словарь" />
+	</file>
+	<file path="rus-dadc390d.mp3">
+		<tag 
+			swac_text="деньги"
+			swac_alphaidx="деньги" />
+	</file>
+	<file path="rus-dae9417b.mp3">
+		<tag 
+			swac_text="одиннадцать"
+			swac_alphaidx="одиннадцать" />
+	</file>
+	<file path="rus-db06c40f.mp3">
+		<tag 
+			swac_text="месяц"
+			swac_alphaidx="месяц" />
+	</file>
+	<file path="rus-db8aa8f1.mp3">
+		<tag 
+			swac_text="полюбить"
+			swac_alphaidx="полюбить" />
+	</file>
+	<file path="rus-db9017bf.mp3">
+		<tag 
+			swac_text="двенадцатый"
+			swac_alphaidx="двенадцатый" />
+	</file>
+	<file path="rus-dbb37a49.mp3">
+		<tag 
+			swac_text="Что-то не так." />
+	</file>
+	<file path="rus-dc0414b9.mp3">
+		<tag 
+			swac_text="ремонтировать"
+			swac_alphaidx="ремонтировать" />
+	</file>
+	<file path="rus-dc2d9fff.mp3">
+		<tag 
+			swac_text="девяносто"
+			swac_alphaidx="девяносто" />
+	</file>
+	<file path="rus-dd99d64e.mp3">
+		<tag 
+			swac_text="после"
+			swac_alphaidx="после" />
+	</file>
+	<file path="rus-ddd0565e.mp3">
+		<tag 
+			swac_text="семь"
+			swac_alphaidx="семь" />
+	</file>
+	<file path="rus-def9cccb.mp3">
+		<tag 
+			swac_text="новость"
+			swac_alphaidx="новость" />
+	</file>
+	<file path="rus-df635a39.mp3">
+		<tag 
+			swac_text="написать"
+			swac_alphaidx="написать" />
+	</file>
+	<file path="rus-df83802e.mp3">
+		<tag 
+			swac_text="сейчас"
+			swac_alphaidx="сейчас" />
+	</file>
+	<file path="rus-e0b8c006.mp3">
+		<tag 
+			swac_text="Канада"
+			swac_alphaidx="Канада" />
+	</file>
+	<file path="rus-e1340d79.mp3">
+		<tag 
+			swac_text="жених"
+			swac_alphaidx="жених" />
+	</file>
+	<file path="rus-e18d7a00.mp3">
+		<tag 
+			swac_text="Америка"
+			swac_alphaidx="Америка" />
+	</file>
+	<file path="rus-e197be99.mp3">
+		<tag 
+			swac_text="наконец"
+			swac_alphaidx="наконец" />
+	</file>
+	<file path="rus-e235aae8.mp3">
+		<tag 
+			swac_text="сыр"
+			swac_alphaidx="сыр" />
+	</file>
+	<file path="rus-e2ad4839.mp3">
+		<tag 
+			swac_text="вкусный"
+			swac_alphaidx="вкусный" />
+	</file>
+	<file path="rus-e2c7de83.mp3">
+		<tag 
+			swac_text="место"
+			swac_alphaidx="место" />
+	</file>
+	<file path="rus-e33c3208.mp3">
+		<tag 
+			swac_text="связь"
+			swac_alphaidx="связь" />
+	</file>
+	<file path="rus-e3b3eaa7.mp3">
+		<tag 
+			swac_text="между"
+			swac_alphaidx="между" />
+	</file>
+	<file path="rus-e45205d0.mp3">
+		<tag 
+			swac_text="остановка"
+			swac_alphaidx="остановка" />
+	</file>
+	<file path="rus-e4a7482b.mp3">
+		<tag 
+			swac_text="вечер"
+			swac_alphaidx="вечер" />
+	</file>
+	<file path="rus-e4e1eb85.mp3">
+		<tag 
+			swac_text="продавщица"
+			swac_alphaidx="продавщица" />
+	</file>
+	<file path="rus-e5130541.mp3">
+		<tag 
+			swac_text="электронный"
+			swac_alphaidx="электронный" />
+	</file>
+	<file path="rus-e52ed6d1.mp3">
+		<tag 
+			swac_text="потом"
+			swac_alphaidx="потом" />
+	</file>
+	<file path="rus-e58e0540.mp3">
+		<tag 
+			swac_text="в"
+			swac_alphaidx="в" />
+	</file>
+	<file path="rus-e59a1bd7.mp3">
+		<tag 
+			swac_text="профессор"
+			swac_alphaidx="профессор" />
+	</file>
+	<file path="rus-e5f4a21c.mp3">
+		<tag 
+			swac_text="восемнадцать"
+			swac_alphaidx="восемнадцать" />
+	</file>
+	<file path="rus-e5fe3ad9.mp3">
+		<tag 
+			swac_text="биология"
+			swac_alphaidx="биология" />
+	</file>
+	<file path="rus-e665f1ee.mp3">
+		<tag 
+			swac_text="потому что" />
+	</file>
+	<file path="rus-e67f3a04.mp3">
+		<tag 
+			swac_text="говорить"
+			swac_alphaidx="говорить" />
+	</file>
+	<file path="rus-e6c0b321.mp3">
+		<tag 
+			swac_text="долго"
+			swac_alphaidx="долго" />
+	</file>
+	<file path="rus-e6dd2a0a.mp3">
+		<tag 
+			swac_text="очень"
+			swac_alphaidx="очень" />
+	</file>
+	<file path="rus-e78d0734.mp3">
+		<tag 
+			swac_text="командировка"
+			swac_alphaidx="командировка" />
+	</file>
+	<file path="rus-e7b14f64.mp3">
+		<tag 
+			swac_text="Италия"
+			swac_alphaidx="Италия" />
+	</file>
+	<file path="rus-e837e487.mp3">
+		<tag 
+			swac_text="труд"
+			swac_alphaidx="труд" />
+	</file>
+	<file path="rus-e83b2496.mp3">
+		<tag 
+			swac_text="приятный"
+			swac_alphaidx="приятный" />
+	</file>
+	<file path="rus-e85e56eb.mp3">
+		<tag 
+			swac_text="московский"
+			swac_alphaidx="московский" />
+	</file>
+	<file path="rus-e8679770.mp3">
+		<tag 
+			swac_text="банан"
+			swac_alphaidx="банан" />
+	</file>
+	<file path="rus-e89a9161.mp3">
+		<tag 
+			swac_text="подумать"
+			swac_alphaidx="подумать" />
+	</file>
+	<file path="rus-e89ab50e.mp3">
+		<tag 
+			swac_text="интересно"
+			swac_alphaidx="интересно" />
+	</file>
+	<file path="rus-e8d736d0.mp3">
+		<tag 
+			swac_text="двести"
+			swac_alphaidx="двести" />
+	</file>
+	<file path="rus-e987f3b3.mp3">
+		<tag 
+			swac_text="спокойно"
+			swac_alphaidx="спокойно" />
+	</file>
+	<file path="rus-e99d2b44.mp3">
+		<tag 
+			swac_text="торт"
+			swac_alphaidx="торт" />
+	</file>
+	<file path="rus-e9a35f2d.mp3">
+		<tag 
+			swac_text="газета"
+			swac_alphaidx="газета" />
+	</file>
+	<file path="rus-e9e891dc.mp3">
+		<tag 
+			swac_text="турист"
+			swac_alphaidx="турист" />
+	</file>
+	<file path="rus-ea0055df.mp3">
+		<tag 
+			swac_text="так"
+			swac_alphaidx="так" />
+	</file>
+	<file path="rus-ea7a97dd.mp3">
+		<tag 
+			swac_text="детский"
+			swac_alphaidx="детский" />
+	</file>
+	<file path="rus-eae3b602.mp3">
+		<tag 
+			swac_text="день"
+			swac_alphaidx="день" />
+	</file>
+	<file path="rus-eaf59491.mp3">
+		<tag 
+			swac_text="верить в себя" />
+	</file>
+	<file path="rus-eb17a7ec.mp3">
+		<tag 
+			swac_text="поехать"
+			swac_alphaidx="поехать" />
+	</file>
+	<file path="rus-eb54cd99.mp3">
+		<tag 
+			swac_text="красивый"
+			swac_alphaidx="красивый" />
+	</file>
+	<file path="rus-eb558d72.mp3">
+		<tag 
+			swac_text="к"
+			swac_alphaidx="к" />
+	</file>
+	<file path="rus-ebb33b2a.mp3">
+		<tag 
+			swac_text="спрашивать о чём-либо" />
+	</file>
+	<file path="rus-ebb66fc8.mp3">
+		<tag 
+			swac_text="кошка"
+			swac_alphaidx="кошка" />
+	</file>
+	<file path="rus-ec2b469e.mp3">
+		<tag 
+			swac_text="погулять"
+			swac_alphaidx="погулять" />
+	</file>
+	<file path="rus-ec38496b.mp3">
+		<tag 
+			swac_text="о"
+			swac_alphaidx="о" />
+	</file>
+	<file path="rus-ec6cf62c.mp3">
+		<tag 
+			swac_text="два"
+			swac_alphaidx="два" />
+	</file>
+	<file path="rus-ec83ef48.mp3">
+		<tag 
+			swac_text="порт"
+			swac_alphaidx="порт" />
+	</file>
+	<file path="rus-ece1b103.mp3">
+		<tag 
+			swac_text="юбка"
+			swac_alphaidx="юбка" />
+	</file>
+	<file path="rus-ed5d9c99.mp3">
+		<tag 
+			swac_text="поэтому"
+			swac_alphaidx="поэтому" />
+	</file>
+	<file path="rus-edbd0aa4.mp3">
+		<tag 
+			swac_text="Байкал"
+			swac_alphaidx="Байкал" />
+	</file>
+	<file path="rus-ee4939d6.mp3">
+		<tag 
+			swac_text="мир"
+			swac_alphaidx="мир" />
+	</file>
+	<file path="rus-ee717a02.mp3">
+		<tag 
+			swac_text="раз"
+			swac_alphaidx="раз" />
+	</file>
+	<file path="rus-ef4bc913.mp3">
+		<tag 
+			swac_text="если"
+			swac_alphaidx="если" />
+	</file>
+	<file path="rus-f0372c72.mp3">
+		<tag 
+			swac_text="портфель"
+			swac_alphaidx="портфель" />
+	</file>
+	<file path="rus-f06e508c.mp3">
+		<tag 
+			swac_text="это"
+			swac_alphaidx="это" />
+	</file>
+	<file path="rus-f093650f.mp3">
+		<tag 
+			swac_text="Волга"
+			swac_alphaidx="Волга" />
+	</file>
+	<file path="rus-f0a589da.mp3">
+		<tag 
+			swac_text="не"
+			swac_alphaidx="не" />
+	</file>
+	<file path="rus-f0fc959a.mp3">
+		<tag 
+			swac_text="то"
+			swac_alphaidx="то" />
+	</file>
+	<file path="rus-f0fe6718.mp3">
+		<tag 
+			swac_text="инфаркт"
+			swac_alphaidx="инфаркт" />
+	</file>
+	<file path="rus-f2807366.mp3">
+		<tag 
+			swac_text="Кирилл"
+			swac_alphaidx="Кирилл" />
+	</file>
+	<file path="rus-f2a91864.mp3">
+		<tag 
+			swac_text="экономика"
+			swac_alphaidx="экономика" />
+	</file>
+	<file path="rus-f2bc5608.mp3">
+		<tag 
+			swac_text="другой"
+			swac_alphaidx="другой" />
+	</file>
+	<file path="rus-f336530a.mp3">
+		<tag 
+			swac_text="собака"
+			swac_alphaidx="собака" />
+	</file>
+	<file path="rus-f359c415.mp3">
+		<tag 
+			swac_text="часто"
+			swac_alphaidx="часто" />
+	</file>
+	<file path="rus-f4be5dc9.mp3">
+		<tag 
+			swac_text="приносить"
+			swac_alphaidx="приносить" />
+	</file>
+	<file path="rus-f4d11999.mp3">
+		<tag 
+			swac_text="спасать"
+			swac_alphaidx="спасать" />
+	</file>
+	<file path="rus-f4da9059.mp3">
+		<tag 
+			swac_text="проект"
+			swac_alphaidx="проект" />
+	</file>
+	<file path="rus-f4e5ee73.mp3">
+		<tag 
+			swac_text="небольшой"
+			swac_alphaidx="небольшой" />
+	</file>
+	<file path="rus-f526c3a2.mp3">
+		<tag 
+			swac_text="брат"
+			swac_alphaidx="брат" />
+	</file>
+	<file path="rus-f6ab195d.mp3">
+		<tag 
+			swac_text="обычно"
+			swac_alphaidx="обычно" />
+	</file>
+	<file path="rus-f6be9762.mp3">
+		<tag 
+			swac_text="слово"
+			swac_alphaidx="слово" />
+	</file>
+	<file path="rus-f6d9818a.mp3">
+		<tag 
+			swac_text="момент"
+			swac_alphaidx="момент" />
+	</file>
+	<file path="rus-f765725b.mp3">
+		<tag 
+			swac_text="любить"
+			swac_alphaidx="любить" />
+	</file>
+	<file path="rus-f771fff7.mp3">
+		<tag 
+			swac_text="ужинать"
+			swac_alphaidx="ужинать" />
+	</file>
+	<file path="rus-f7ea850a.mp3">
+		<tag 
+			swac_text="летний"
+			swac_alphaidx="летний" />
+	</file>
+	<file path="rus-f853276f.mp3">
+		<tag 
+			swac_text="декабрь"
+			swac_alphaidx="декабрь" />
+	</file>
+	<file path="rus-f9153bd6.mp3">
+		<tag 
+			swac_text="журнал"
+			swac_alphaidx="журнал" />
+	</file>
+	<file path="rus-f93d3f54.mp3">
+		<tag 
+			swac_text="экран"
+			swac_alphaidx="экран" />
+	</file>
+	<file path="rus-f95b9330.mp3">
+		<tag 
+			swac_text="тысяча"
+			swac_alphaidx="тысяча" />
+	</file>
+	<file path="rus-f985d5ae.mp3">
+		<tag 
+			swac_text="квартира"
+			swac_alphaidx="квартира" />
+	</file>
+	<file path="rus-fa1d892f.mp3">
+		<tag 
+			swac_text="быть"
+			swac_alphaidx="быть" />
+	</file>
+	<file path="rus-fa98f712.mp3">
+		<tag 
+			swac_text="бармен"
+			swac_alphaidx="бармен" />
+	</file>
+	<file path="rus-fad62910.mp3">
+		<tag 
+			swac_text="студент"
+			swac_alphaidx="студент" />
+	</file>
+	<file path="rus-fb4daab4.mp3">
+		<tag 
+			swac_text="выиграть"
+			swac_alphaidx="выиграть" />
+	</file>
+	<file path="rus-fb92b5d8.mp3">
+		<tag 
+			swac_text="телефон"
+			swac_alphaidx="телефон" />
+	</file>
+	<file path="rus-fbfe717c.mp3">
+		<tag 
+			swac_text="покупатель"
+			swac_alphaidx="покупатель" />
+	</file>
+	<file path="rus-fc323b03.mp3">
+		<tag 
+			swac_text="старый"
+			swac_alphaidx="старый" />
+	</file>
+	<file path="rus-fc38bfb1.mp3">
+		<tag 
+			swac_text="он"
+			swac_alphaidx="он" />
+	</file>
+	<file path="rus-fc8518f0.mp3">
+		<tag 
+			swac_text="когда"
+			swac_alphaidx="когда" />
+	</file>
+	<file path="rus-fcc8a302.mp3">
+		<tag 
+			swac_text="вообще"
+			swac_alphaidx="вообще" />
+	</file>
+	<file path="rus-fcd18eff.mp3">
+		<tag 
+			swac_text="неделя"
+			swac_alphaidx="неделя" />
+	</file>
+	<file path="rus-fcf0663b.mp3">
+		<tag 
+			swac_text="же"
+			swac_alphaidx="же" />
+	</file>
+	<file path="rus-ff346c30.mp3">
+		<tag 
+			swac_text="Енисей"
+			swac_alphaidx="Енисей" />
+	</file>
+	<file path="rus-ff876691.mp3">
+		<tag 
+			swac_text="другие"
+			swac_alphaidx="другие" />
+	</file>
+	<file path="rus-ff9b83b5.mp3">
+		<tag 
+			swac_text="иностранный"
+			swac_alphaidx="иностранный" />
+	</file>
+	<file path="rus-fffb90df.mp3">
+		<tag 
+			swac_text="пятьдесят"
+			swac_alphaidx="пятьдесят" />
+	</file>
+</group>
+</index>
