@@ -61,7 +61,7 @@ final class TypeItBack extends Command
 
             $attempts = 0;
             $style->success("Your score: {$score}");
-            $style->writeln("The word is '{$word->russian}' ({$word->english})");
+            $style->writeln("The word is <fg=yellow>'{$word->russian}'</> ({$word->english})");
             while ($attempts < 3) {
                 exec("afplay {$audioFile} & > /dev/null");
                 $typedWord = $style->ask('', '');
