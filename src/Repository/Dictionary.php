@@ -13,9 +13,9 @@ class Dictionary
     public const WORD_TYPE_ADJECTIVE = 3;
 
     private const FILES = [
-        self::WORD_TYPE_NOUN => __DIR__ . '/../../resources/nouns.csv',
-        self::WORD_TYPE_VERB => __DIR__ . '/../../resources/verbs.csv',
-        self::WORD_TYPE_ADJECTIVE => __DIR__ . '/../../resources/adjectives.csv',
+        self::WORD_TYPE_NOUN => __DIR__ . '/../../resources/dictionary/nouns.csv',
+        self::WORD_TYPE_VERB => __DIR__ . '/../../resources/dictionary/verbs.csv',
+        self::WORD_TYPE_ADJECTIVE => __DIR__ . '/../../resources/dictionary/adjectives.csv',
     ];
 
     public function randomNoun(int $maxLength): ?Word
