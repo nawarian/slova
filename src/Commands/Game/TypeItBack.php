@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nawarian\Slova\Commands;
+namespace Nawarian\Slova\Commands\Game;
 
 use Nawarian\Slova\Repository\Dictionary;
 use Symfony\Component\Console\Command\Command;
@@ -13,7 +13,7 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 
 final class TypeItBack extends Command
 {
-    protected static $defaultName = 'typeitback';
+    protected static $defaultName = 'game:typeitback';
     protected static $defaultDescription = 'Receive random Russian words and type them back to score points.';
 
     private Dictionary $dict;

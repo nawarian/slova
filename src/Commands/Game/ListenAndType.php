@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nawarian\Slova\Commands;
+namespace Nawarian\Slova\Commands\Game;
 
 use Nawarian\Slova\Repository\Dictionary;
 use Symfony\Component\Console\Command\Command;
@@ -13,7 +13,7 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 
 final class ListenAndType extends Command
 {
-    protected static $defaultName = 'listenandtype';
+    protected static $defaultName = 'game:listenandtype';
     protected static $defaultDescription = 'Listen to an audio with a Russian word and type it in.';
 
     private Dictionary $dict;

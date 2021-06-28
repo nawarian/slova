@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 use DI\ContainerBuilder;
 use Nawarian\Slova\Application;
-use Nawarian\Slova\Commands\ListenAndType;
-use Nawarian\Slova\Commands\TypeItBack;
+use Nawarian\Slova\Commands\Game\ListenAndType;
+use Nawarian\Slova\Commands\Game\TypeItBack;
 use Nawarian\Slova\Repository\Dictionary;
 use Psr\Container\ContainerInterface;
 use function DI\autowire;
